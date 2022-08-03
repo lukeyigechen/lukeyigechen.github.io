@@ -11,13 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Linguistics, Chinese University of Hong Kong, 2026 (expected)
+* Ph.D. in Linguistics, Chinese University of Hong Kong, 2026 (expected)
 * M.S. in Computational Linguistics, University of Washington, 2022
 * M.Phil. in Theoretical and Applied Linguistics, University of Cambridge, 2021
 * B.S. in Economics, Linguistics, Mathematics, Asian Studies, University of Wisconsin–Madison, 2020
 * Certificate in Computer Sciences, University of Wisconsin–Madison, 2020
 
-Work experience
+Research Interests
+======
+
+Natural Language Processing, Computational Linguistics, Information Extraction (esp. in Economics and Finance), Information Systems, Machine Learning, Corpus Linguistics, Syntax, Economics of Language, Behavioral Economics
+
+Working Papers
+======
+* Korean Named Entity Recognition Based on Language-Specific Features (with KyungTae Lim and Jungyeul Park) 
+* Yet Another Format of Universal Dependencies for Korean (with Eunkyul Leah Jo, Yundong Yao, KyungTae Lim, Miikka Silfverberg, Francis Tyers and Jungyeul Park)
+
+Working experience
 ======
 * Summer 2015: Research Assistant
   * Github University
