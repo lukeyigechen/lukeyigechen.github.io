@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Linguistics, Chinese University of Hong Kong, 2026 (expected)
+* M.S. in Computational Linguistics, University of Washington, 2022
+* M.Phil. in Theoretical and Applied Linguistics, University of Cambridge, 2021
+* B.S. in Economics, Linguistics, Mathematics, Asian Studies, University of Wisconsin–Madison, 2020
+* Certificate in Computer Sciences, University of Wisconsin–Madison, 2020
 
 Work experience
 ======
