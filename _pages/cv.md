@@ -34,15 +34,25 @@ Working Papers
 
 Working Experience
 ======
-* Research Assistant for Prof. Yi Yang (December 2021 - April 2022)
+* Research Assistant (December 2021 – April 2022)
   * Department of Information Systems, Business Statistics and Operations Management, School of Business and Management, Hong Kong University of Science and Technology
-<!--  * Duties included: Tagging issues 
-  * Supervisor: Prof. Yi Yang -->
+<!--  * Duties included: Tagging issues -->
+  * Supervisor: Prof. Yi Yang 
 
-* Research Assistant for Prof. Jungyeul Park(August 2020 - July 2021)
+* Financial NLP Intern (July 2021 – October 2021)
+  * Global Markets Department, China Merchants Bank, Shanghai, China
+<!--  * Duties included: Tagging issues
+  * Supervisor: Prof. --> 
+
+* Research Assistant (August 2020 – July 2021)
 <!--  * Github University
-  * Duties included: Merging pull requests 
-  * Supervisor: Prof. Jungyeul Park -->
+  * Duties included: Merging pull requests -->
+  * Supervisor: Prof. Jungyeul Park 
+
+* Lab Assistant (February 2019 – May 2020)
+  * Second Language Acquisition Lab (SLA Lab), Department of English, University of Wisconsin–Madison
+<!--  * Duties included: Tagging issues -->
+  * Supervisor: Prof. Jacee Cho  
 
 Teaching
 ======
@@ -52,12 +62,10 @@ Teaching
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Operating Systems: Windows, Linux, macOS
+* Programming: Java, Python (NumPy, pandas, PyTorch, Transformers), MATLAB, Visual Basic, STATA, R, Maple
+* Software: Microsoft Office (Word, Excel, PowerPoint), LaTeX, Praat, E-Prime, Adobe Photoshop, Adobe Audition
+* Languages: Mandarin and Wu Chinese (native), English (fluent), Korean (intermediate), Japanese, Spanish and Cantonese (basic), Classical Chinese (fluent in written language)
 
 <!--
 Publications
