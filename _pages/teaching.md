@@ -7,13 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-A variety of common markup showing how the theme styles them.
-
-# Header one
-
-## Header two
-
-### Header three
+## Autumn 2022
 
 Information and materials for the upcoming term will be posted soon. 
 
