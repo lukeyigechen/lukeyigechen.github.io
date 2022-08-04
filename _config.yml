@@ -181,6 +181,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  workingpaper:
+    output: true
+    permalink: /:collection/:path/
+  workinprogress:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -222,6 +228,24 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _workingpaper
+  - scope:
+      path: ""
+      type: workingpaper
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _workinprogress
+  - scope:
+      path: ""
+      type: workinprogress
     values:
       layout: single
       author_profile: true
