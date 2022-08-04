@@ -53,9 +53,13 @@ Natural Language Processing, Computational Linguistics, Information Extraction (
 <!--  * Duties included: Tagging issues -->
   * Supervisor: Prof. Jacee Cho  
 
+
+## Teaching Experience
+
+* Language Tutor (February 2018 – May 2020)
+  * Greater University Tutoring Services (GUTS), University of Wisconsin–Madison
+  * Language: Mandarin Chinese
 <!--
-Teaching
-======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
