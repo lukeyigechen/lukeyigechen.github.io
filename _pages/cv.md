@@ -9,21 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * Ph.D., Linguistics, Chinese University of Hong Kong, 2026 (expected)
 * M.S., Computational Linguistics, University of Washington, 2022
 * M.Phil., Theoretical and Applied Linguistics, University of Cambridge, 2021
 * B.S., Economics, Linguistics, Mathematics, Asian Studies, University of Wisconsin–Madison, 2020
 * Certificate, Computer Sciences, University of Wisconsin–Madison, 2020
 
-Research Interests
-======
+## Research Interests
 
 Natural Language Processing, Computational Linguistics, Information Extraction (esp. in Economics and Finance), Information Systems, Machine Learning, Syntax, Economics of Language, Behavioral Economics
 
-Working Papers
-======
+## Working Papers
+
 <!--
   <ul>{% for post in site.workingpaper %}
     {% include archive-single-cv.html %}
@@ -32,8 +31,8 @@ Working Papers
 * Korean Named Entity Recognition Based on Language-Specific Features (with KyungTae Lim and Jungyeul Park) 
 * Yet Another Format of Universal Dependencies for Korean (with Eunkyul Leah Jo, Yundong Yao, KyungTae Lim, Miikka Silfverberg, Francis Tyers and Jungyeul Park)
 
-Working Experience
-======
+## Working Experience
+
 * Research Assistant (December 2021 – April 2022)
   * Department of Information Systems, Business Statistics and Operations Management, School of Business and Management, Hong Kong University of Science and Technology
 <!--  * Duties included: Tagging issues -->
@@ -62,8 +61,8 @@ Teaching
   {% endfor %}</ul>
 -->
 
-Skills
-======
+## Skills
+
 * Operating Systems: Windows, Linux, macOS
 * Programming: Java, Python (NumPy, pandas, PyTorch, Transformers), MATLAB, Visual Basic, STATA, R, Maple
 * Software: Microsoft Office (Word, Excel, PowerPoint), LaTeX, Praat, E-Prime, Adobe Photoshop, Adobe Audition
