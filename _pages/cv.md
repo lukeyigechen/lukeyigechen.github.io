@@ -31,6 +31,13 @@ Natural Language Processing, Computational Linguistics, Information Extraction (
 * Korean Named Entity Recognition Based on Language-Specific Features (with KyungTae Lim and Jungyeul Park) 
 * Yet Another Format of Universal Dependencies for Korean (with Eunkyul Leah Jo, Yundong Yao, KyungTae Lim, Miikka Silfverberg, Francis Tyers and Jungyeul Park)
 
+## Awards
+
+* Hong Kong PhD Fellowship Scheme (2022)
+* CUHK Vice-Chancellor’s PhD Scholarship Scheme (2022)
+* Juli Plant Grainger Academic Excellence Scholarship in Economics (2019)
+* UW-Madison Undergraduate Scholarship for Summer Study (2019, 2020)
+
 ## Working Experience
 
 * Research Assistant (December 2021 – April 2022)
@@ -67,10 +74,10 @@ Natural Language Processing, Computational Linguistics, Information Extraction (
 
 ## Skills
 
-* Operating Systems: Windows, Linux, macOS
-* Programming: Java, Python (NumPy, pandas, PyTorch, Transformers), MATLAB, Visual Basic, STATA, R, Maple
-* Software: Microsoft Office (Word, Excel, PowerPoint), LaTeX, Praat, E-Prime, Adobe Photoshop, Adobe Audition
-* Languages: Mandarin and Wu Chinese (native), English (fluent), Korean (intermediate), Japanese, Spanish and Cantonese (basic), Classical Chinese (fluent in written language)
+* *Operating Systems*: Windows, Linux, macOS
+* *Programming*: Java, Python (NumPy, pandas, PyTorch, Transformers), MATLAB, Visual Basic, STATA, R, Maple
+* *Software*: Microsoft Office (Word, Excel, PowerPoint), LaTeX, Praat, E-Prime, Adobe Photoshop, Adobe Audition
+* *Languages*: Mandarin and Wu Chinese (native), English (fluent), Korean (intermediate), Japanese, Spanish and Cantonese (basic), Classical Chinese (fluent in written language)
 
 <!--
 Publications
