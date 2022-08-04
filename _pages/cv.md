@@ -20,7 +20,7 @@ Education
 Research Interests
 ======
 
-Natural Language Processing, Computational Linguistics, Information Extraction (esp. in Economics and Finance), Information Systems, Machine Learning, Corpus Linguistics, Syntax, Economics of Language, Behavioral Economics
+Natural Language Processing, Computational Linguistics, Information Extraction (esp. in Economics and Finance), Information Systems, Machine Learning, Syntax, Economics of Language, Behavioral Economics
 
 Working Papers
 ======
@@ -41,12 +41,12 @@ Working Experience
 
 * Financial NLP Intern (July 2021 – October 2021)
   * Global Markets Department, China Merchants Bank, Shanghai, China
-<!--  * Duties included: Tagging issues
-  * Supervisor: Prof. --> 
+<!--  * Duties included: Tagging issues --> 
+<!--  * Supervisor: Prof. --> 
 
 * Research Assistant (August 2020 – July 2021)
-<!--  * Github University
-  * Duties included: Merging pull requests -->
+<!--  * Github University -->
+<!--  * Duties included: Merging pull requests -->
   * Supervisor: Prof. Jungyeul Park 
 
 * Lab Assistant (February 2019 – May 2020)
@@ -54,11 +54,13 @@ Working Experience
 <!--  * Duties included: Tagging issues -->
   * Supervisor: Prof. Jacee Cho  
 
+<!--
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
 
 Skills
 ======
