@@ -83,7 +83,7 @@ author:
   name             : "Yige Chen"
   avatar           : "photo_ychen_1000.png"
   bio              : "Ph.D. student at the Chinese University of Hong Kong"
-  location         : "Hong Kong"
+  location         : "Shatin, Hong Kong"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
@@ -116,7 +116,7 @@ author:
   youtube          :
   wikipedia        :
   extraphone       : 
-  extraaddress     : G19, Leung Kau Kui Bldg.
+  extraaddress     : "G19, Leung Kau Kui Bldg."
 
 
 # Reading Files
