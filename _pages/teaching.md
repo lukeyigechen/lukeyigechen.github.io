@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Autumn 2022
+## Fall 2022
 
 Information and materials for the upcoming term will be posted soon. 
 
