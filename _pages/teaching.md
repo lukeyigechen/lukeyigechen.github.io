@@ -12,6 +12,12 @@ author_profile: true
 LING3204 Second Language Acquisition \[[Fall 2022](https://lukeyigechen.github.io/teaching/ling3204/fa22)\] \
 LING2301 Sociolinguistics \[[Spring 2023](https://lukeyigechen.github.io/teaching/ling2301/sp23)\]
 
+### Language Tutor at the University of Wisconsin-Madison
+
+Chinese Conversation \[Fall 2019, Spring 2020\] \
+Second Semester Chinese \[Spring 2019\] \
+First Semester Chinese \[Spring 2018, Fall 2018\]
+
 <!--
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
