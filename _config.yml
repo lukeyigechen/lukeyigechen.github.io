@@ -222,7 +222,7 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: archive
+      layout: single
       author_profile: true
       #share: true
       #comments: true
