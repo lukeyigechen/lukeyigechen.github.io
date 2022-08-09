@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! My name is Yige (Luke) Chen. Yige is my legal name, but I also go by Luke. 
+Welcome to my website! My name is Yige (Luke) Chen. <!-- Yige is my legal name, but I also go by Luke. -->
 
 I am a Ph.D. student in [Linguistics](http://ling.cuhk.edu.hk/index.php) at the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/), supervised by Prof. [Haihua Pan](http://ling.cuhk.edu.hk/p_pan.php) ([Department of Linguistics and Modern Languages](http://ling.cuhk.edu.hk/)), and co-supervised by Prof. [Keehyung Kim](https://www.bschool.cuhk.edu.hk/staff/kim-keehyung/) ([Department of Decision Sciences and Managerial Economics](https://www.bschool.cuhk.edu.hk/departments/decision-sciences-and-managerial-economics/), [CUHK Business School](https://www.bschool.cuhk.edu.hk/)) and (unofficially) Prof. [Maggie Wenjie Li](https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-wenjie-maggie/) ([Department of Computing](https://www.polyu.edu.hk/comp/), [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/)). My area of study is natural language processing, and my research topic is information extraction in the economic, financial and business domains. I am funded by [Hong Kong PhD Fellowship Scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/) and [CUHK Vice-Chancellor’s PhD Scholarship Scheme](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/scholarships). 
 
