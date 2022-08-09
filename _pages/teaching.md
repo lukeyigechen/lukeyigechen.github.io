@@ -9,9 +9,9 @@ author_profile: true
 
 ### Teaching Assistant at the Chinese University of Hong Kong
 
-LING3204 Second Language Acquisition \[[Fall 2022](/teaching/ling3204/fa22)\]
+LING3204 Second Language Acquisition \[[Fall 2022](https://lukeyigechen.github.io/teaching/ling3204/fa22)\]
 
-LING2301 Sociolinguistics \[[Spring 2023](/teaching/ling2301/sp23)\]
+LING2301 Sociolinguistics \[[Spring 2023](https://lukeyigechen.github.io/teaching/ling2301/sp23)\]
 <!--
 ## Fall 2022
 
