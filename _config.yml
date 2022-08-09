@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yige (Luke) Chen"
+title                    : "Yige Chen"
 title_separator          : "-"
-name                     : &name "Yige (Luke) Chen"
+name                     : &name "Yige Chen"
 description              : &description "Ph.D. student at the Chinese University of Hong Kong"
 url                      : https://lukeyigechen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yige (Luke) Chen"
+  name             : "Yige Chen"
   avatar           : "photo_ychen_1000.png"
   bio              : "Ph.D. student at the Chinese University of Hong Kong"
   location         : "Shatin, Hong Kong"
