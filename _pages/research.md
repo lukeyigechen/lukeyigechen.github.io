@@ -17,6 +17,7 @@ author_profile: true
 * Yet Another Format of Universal Dependencies for Korean (with Eunkyul Leah Jo, Yundong Yao, KyungTae Lim, Miikka Silfverberg, Francis Tyers and Jungyeul Park)
 
 <!--
+test
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
