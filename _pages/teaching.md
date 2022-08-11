@@ -12,6 +12,8 @@ author_profile: true
 * LING2301 Sociolinguistics \[[Spring 2023](https://lukeyigechen.github.io/teaching/ling2301/sp23)\]
 * LING1000 Invitation to Linguistics \[[Fall 2022](https://lukeyigechen.github.io/teaching/ling1000/fa22)\] 
 
+<!--
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
