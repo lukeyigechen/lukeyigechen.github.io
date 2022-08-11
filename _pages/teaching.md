@@ -14,7 +14,7 @@ author_profile: true
 
 <!--
 
-* LING3204 Second Language Acquisition \[[Fall 2022](https://lukeyigechen.github.io/teaching/ling3204/fa22)\] 
+LING3204 Second Language Acquisition \[[Fall 2022](https://lukeyigechen.github.io/teaching/ling3204/fa22)\] 
 
 ### Language Tutor at the University of Wisconsin-Madison
 
