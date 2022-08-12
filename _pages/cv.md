@@ -31,10 +31,11 @@ Natural Language Processing, Computational Linguistics, Information Extraction (
 * Korean Named Entity Recognition Based on Language-Specific Features (with KyungTae Lim and Jungyeul Park) 
 * Yet Another Format of Universal Dependencies for Korean (with Eunkyul Leah Jo, Yundong Yao, KyungTae Lim, Miikka Silfverberg, Francis Tyers and Jungyeul Park)
 
-## Awards
+## Awards and Honors 
 
 * Hong Kong PhD Fellowship Scheme (2022)
 * CUHK Vice-Chancellor’s PhD Scholarship Scheme (2022)
+* Phi Beta Kappa (2020)
 * Juli Plant Grainger Academic Excellence Scholarship in Economics (2019)
 * UW-Madison Undergraduate Scholarship for Summer Study (2019, 2020)
 
