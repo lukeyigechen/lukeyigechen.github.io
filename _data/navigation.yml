@@ -23,6 +23,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "External Links"
+    url: /external-links/
     
 #  - title: "Guide"
 #    url: /markdown/
