@@ -12,4 +12,6 @@ author_profile: true
 * [American Economic Association](http://www.aeaweb.org)
 * [Association for Computing Machinery](https://www.acm.org)
 * [American Mathematical Society](https://www.ams.org)
+* [Association for Asian Studies](https://www.asianstudies.org)
+* [International Association Of Chinese Linguistics](http://iacl-linguistics.org)
 * [Phi Beta Kappa](https://www.pbk.org)
