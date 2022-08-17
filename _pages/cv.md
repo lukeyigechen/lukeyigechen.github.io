@@ -21,15 +21,13 @@ redirect_from:
 
 Natural Language Processing, Computational Linguistics, Information Extraction (esp. in Economics and Finance), Information Systems, Machine Learning, Syntax, Economics of Language, Behavioral Economics
 
+## Publications
+
+* **Yige Chen**, Eunkyul Leah Jo, Yundong Yao, KyungTae Lim, Miikka Silfverberg, Francis Tyers and Jungyeul Park. Yet Another Format of Universal Dependencies for Korean. To appear in *Proceedings of the 29th International Conference on Computational Linguistics (COLING)*. 2022. 
+
 ## Working Papers
 
-<!--
-  <ul>{% for post in site.workingpaper %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> 
--->
 * Korean Named Entity Recognition Based on Language-Specific Features (with KyungTae Lim and Jungyeul Park) 
-* Yet Another Format of Universal Dependencies for Korean (with Eunkyul Leah Jo, Yundong Yao, KyungTae Lim, Miikka Silfverberg, Francis Tyers and Jungyeul Park)
 
 ## Awards and Honors 
 
