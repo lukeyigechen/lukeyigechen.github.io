@@ -14,7 +14,7 @@ location: "Hong Kong"
 
 ### Teaching staff 
 * Instructor: Dr. Jiangling Zhou
-  * Email: [zhoujiangling\[at\]link.cuhk.edu.hk](mailto:zhoujiangling@link.cuhk.edu.hk) 
+  * Email: [jiangling.zhou\[at\]cuhk.edu.hk](mailto:jiangling.zhou@cuhk.edu.hk) 
   * Office hour: TBA 
 * Teaching assistant: Yige Chen
   * Email: [yigechen\[at\]link.cuhk.edu.hk](mailto:yigechen@link.cuhk.edu.hk) 
