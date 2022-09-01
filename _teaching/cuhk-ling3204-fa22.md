@@ -23,4 +23,5 @@ location: "Hong Kong"
   * Email: [ziyan\[at\]link.cuhk.edu.hk](mailto:ziyan@link.cuhk.edu.hk) 
   * Office hour: TBA 
 
-Information and materials for the course will be posted soon. 
+### Course syllabus 
+* [Syllabus](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/fa22/LING%203204%20Second%20Language%20Acquisition_course%20outline_2022-2023_v1.pdf)
