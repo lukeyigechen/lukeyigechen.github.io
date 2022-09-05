@@ -32,7 +32,7 @@ location: "Hong Kong"
 * Term project (50%): Students will design an empirical research project investigating an issue in L2 acquisition individually.
   * Abstract (10%): max. 350 words, excl. references
   * Proposal (40%): max. 3,000 words, excl. references and appendices
-* Attendance at lectures and tutorials is required. 5% will be deducted from the final score in cases where students miss three or more lectures/tutorials without a legitimate reason
+* Attendance at lectures and tutorials is required. 5% will be deducted from the final score in cases where students miss three or more lectures/tutorials without a legitimate reason.
 
 ### Course schedule
 <!--
