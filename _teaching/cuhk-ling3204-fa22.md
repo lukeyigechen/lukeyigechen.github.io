@@ -15,16 +15,24 @@ location: "Hong Kong"
 ### Teaching staff 
 * Instructor: Dr. Jiangling Zhou
   * Email: [jiangling.zhou\[at\]cuhk.edu.hk](mailto:jiangling.zhou@cuhk.edu.hk) 
-  * Office hour: TBA 
+  * Office hour: By appointment 
 * Teaching assistant: Yige Chen
   * Email: [yigechen\[at\]link.cuhk.edu.hk](mailto:yigechen@link.cuhk.edu.hk) 
-  * Office hour: TBA 
+  * Office hour: By appointment 
 * Teaching assistant: Ziyan Meng
   * Email: [ziyan\[at\]link.cuhk.edu.hk](mailto:ziyan@link.cuhk.edu.hk) 
-  * Office hour: TBA 
+  * Office hour: By appointment 
 
 ### Course syllabus 
 * [Syllabus](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/fa22/LING%203204%20Second%20Language%20Acquisition_course%20outline_2022-2023_v1.pdf)
+
+### Assessment scheme
+* Presentation (20%): Starting from the third tutorial, a group of 3-4 students will conduct a 15-min joint presentation of a research paper (provided by the instructor) on SLA to the class, prepare 2 discussion questions and lead the discussion in each of the tutorials. 
+* Quiz (30%): A close-book written quiz will be administered in class to help consolidate students’ understanding of important concepts of SLA and L2 data analysis.
+* Term project (50%): Students will design an empirical research project investigating an issue in L2 acquisition individually.
+  * Abstract (10%): max. 350 words, excl. references
+  * Proposal (40%): max. 3,000 words, excl. references and appendices
+* Attendance at lectures and tutorials is required. 5% will be deducted from the final score in cases where students miss three or more lectures/tutorials without a legitimate reason
 
 ### Course schedule
 <!--
