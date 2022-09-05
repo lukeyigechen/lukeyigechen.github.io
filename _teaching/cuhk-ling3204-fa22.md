@@ -71,6 +71,7 @@ location: "Hong Kong"
 
 ### Useful Links
 * [Blackboard](https://blackboard.cuhk.edu.hk/ultra/courses/_168399_1/cl/outline)
+* [SLABank](https://slabank.talkbank.org/)
 * [University policy on academic honesty](https://www.cuhk.edu.hk/policy/academichonesty/)
 * [Academic accommodations](https://www2.osa.cuhk.edu.hk/sens/en-GB/)
 * [University policy on COVID-19](https://againstcovid19.cuhk.edu.hk/students/)
