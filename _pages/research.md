@@ -18,3 +18,10 @@ author_profile: true
 ## Working Papers
 
 * Korean Named Entity Recognition Based on Language-Specific Features (with KyungTae Lim and Jungyeul Park) 
+
+## Work in Progress
+
+* Linguistic probes for pre-trained language models (with Haihua Pan)
+* Stock market prediction using language models (with Yi Yang)
+* Korean semantic role labeling based on linguistic knowledge (with Jungyeul Park)
+* Foreign languages and decision-making (with Keehyung Kim)
