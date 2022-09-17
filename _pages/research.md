@@ -22,6 +22,6 @@ author_profile: true
 ## Work in Progress
 
 * Linguistic probes for pre-trained language models (with Haihua Pan)
-* Stock market prediction using language models (with Yi Yang)
-* Korean semantic role labeling based on linguistic knowledge (with Jungyeul Park)
+* Financial forecasting using language models (with Yi Yang)
+* Korean semantic role labeling based on linguistic knowledge (with Jungyeul Park and Kyuwon Kim)
 * Foreign languages and decision-making (with Keehyung Kim)
