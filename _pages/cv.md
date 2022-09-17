@@ -56,11 +56,12 @@ Natural Language Processing, Computational Linguistics, Information Extraction (
 
 ## Teaching Experience
 
-<!--
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
+* Teaching Assistant (September 2022 – Present)
+  * The Chinese University of Hong Kong
+  * Courses: 
+    * LING2301 Sociolinguistics \[[Spring 2023](https://lukeyigechen.github.io/teaching/ling2301/sp23)\]
+    * LING3204 Second Language Acquisition \[[Fall 2022](https://lukeyigechen.github.io/teaching/ling3204/fa22)\] 
+
 * Language Tutor (February 2018 – May 2020)
   * Greater University Tutoring Services (GUTS), University of Wisconsin–Madison
   * Language: Mandarin Chinese
