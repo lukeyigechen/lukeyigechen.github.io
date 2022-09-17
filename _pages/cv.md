@@ -53,14 +53,13 @@ Natural Language Processing, Computational Linguistics, Information Extraction (
   * Second Language Acquisition Lab (SLA Lab), Department of English, University of Wisconsin–Madison
   * Supervisor: Prof. Jacee Cho  
 
-
 ## Teaching Experience
 
 * Teaching Assistant (September 2022 – Present)
   * The Chinese University of Hong Kong
   * Courses: 
-    * LING2301 Sociolinguistics \[[Spring 2023](https://lukeyigechen.github.io/teaching/ling2301/sp23)\]
-    * LING3204 Second Language Acquisition \[[Fall 2022](https://lukeyigechen.github.io/teaching/ling3204/fa22)\] 
+    * LING2301 Sociolinguistics \[Spring 2023\]
+    * LING3204 Second Language Acquisition \[Fall 2022\] 
 
 * Language Tutor (February 2018 – May 2020)
   * Greater University Tutoring Services (GUTS), University of Wisconsin–Madison
