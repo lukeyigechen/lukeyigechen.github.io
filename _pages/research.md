@@ -21,7 +21,7 @@ author_profile: true
 
 ## In Preparation
 
-* Prompt learning and linguistic rules (with Haihua Pan)
+* Prompt learning and linguistic knowledge (with Haihua Pan)
 * Financial forecasting using language models (with Yi Yang)
-* Korean semantic role labeling based on linguistic knowledge (with Kyuwon Kim, KyungTae Lim and Jungyeul Park)
+* Korean semantic role labeling based on linguistic properties (with Kyuwon Kim, KyungTae Lim and Jungyeul Park)
 * Foreign languages and decision-making (with Keehyung Kim)
