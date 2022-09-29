@@ -19,7 +19,7 @@ author_profile: true
 
 * Korean Named Entity Recognition Based on Language-Specific Features (with KyungTae Lim and Jungyeul Park) 
 
-## Work in Progress
+## In Preparation
 
 * Linguistic probes for pre-trained language models (with Haihua Pan)
 * Financial forecasting using language models (with Yi Yang)
