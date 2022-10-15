@@ -15,7 +15,7 @@ author_profile: true
 
 ## Publications
 
-* **Yige Chen**, Eunkyul Leah Jo, Yundong Yao, KyungTae Lim, Miikka Silfverberg, Francis Tyers and Jungyeul Park. Yet Another Format of Universal Dependencies for Korean. To appear in *Proceedings of the 29th International Conference on Computational Linguistics (COLING)*. 2022. 
+* **Yige Chen**, Eunkyul Leah Jo, Yundong Yao, KyungTae Lim, Miikka Silfverberg, Francis Tyers and Jungyeul Park. Yet Another Format of Universal Dependencies for Korean. In *Proceedings of the 29th International Conference on Computational Linguistics (COLING)*. 2022. 
 
 ## Working Papers
 
