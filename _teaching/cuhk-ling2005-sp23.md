@@ -16,7 +16,7 @@ location: "Hong Kong"
 * Instructor: Dr. Zhuo Chen
   * Email: [zhuochen\[at\]cuhk.edu.hk](mailto:zhuochen@cuhk.edu.hk) 
   * Office hour: TBA 
-* Teaching assistant: Yige Chen
+* Teaching Assistant: Yige Chen
   * Email: [yigechen\[at\]link.cuhk.edu.hk](mailto:yigechen@link.cuhk.edu.hk) 
   * Office hour: TBA 
 
