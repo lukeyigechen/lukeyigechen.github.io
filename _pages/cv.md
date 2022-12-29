@@ -58,7 +58,7 @@ Natural Language Processing, Computational Linguistics, Information Extraction (
 * Teaching Assistant (September 2022 – Present)
   * The Chinese University of Hong Kong
   * Courses: 
-    * LING2301 Sociolinguistics \[Spring 2023\]
+    * LING2005 Syntax I \[Spring 2023\]
     * LING3204 Second Language Acquisition \[Fall 2022\] 
 
 * Language Tutor (February 2018 – May 2020)
