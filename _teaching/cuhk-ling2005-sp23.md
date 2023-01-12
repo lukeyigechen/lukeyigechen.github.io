@@ -8,11 +8,11 @@ date: 2023-01-09
 location: "Hong Kong"
 ---
 
-### Meeting time and location
+### Meeting Time and Location
 * Lecture: Friday 9:30-11:15, Leung Kau Kui Building 101
 * Tutorial: Wednesday 13:30-14:15, TBD
 
-### Teaching staff 
+### Teaching Staff 
 * Instructor: Dr. Zhuo Chen
   * Email: [zhuochen\[at\]cuhk.edu.hk](mailto:zhuochen@cuhk.edu.hk) 
   * Office hour: by appointment 
@@ -25,7 +25,7 @@ location: "Hong Kong"
 
 ### Assessment Scheme
 * Homework assignments (40%): There will be 2 written homework assignments. 20% will be taken off for each day late.
-* Midterm (25%): There will be 1 in-class mid-term on Mar 3.
+* Midterm (25%): There will be 1 in-class midterm on Mar 3.
 * Final exam (25%): There will be 1 final exam on Apr 25. Exact place TBA. 
 * Participation (10%): Active participation in lectures and class activities are required. For each missed class meeting without a documented family or medical emergence, 2% will be taken off. 
 
@@ -36,8 +36,8 @@ location: "Hong Kong"
 | 1 | Jan 13 | What is syntax? Starting with words | ISAT: 1-37 |  |  |
 | 2 | Jan 20 | Word structure, Constituency | ISAT: 1-37, 43-50 |  |  |
 | 3 | Jan 27 | **No class – Lunar New Year** |  |  |  |
-| 4 | Feb 3 | Trees. Constituency tests. | ISAT: 50-79 |  |  |
-| 5 | Feb 10 | Clause and phrase structure. | ISAT: 87-122 |  | Homework 1 out |
+| 4 | Feb 3 | Trees & Constituency tests | ISAT: 50-79 |  |  |
+| 5 | Feb 10 | Clause and phrase structure | ISAT: 87-122 |  | Homework 1 out |
 | 6 | Feb 17 | X-bar theory | ISAT: 127-152 |  |  |
 | 7 | Feb 24 | Binding Theory I | ISAT: 157-172 |  | **Homework 1 due** |
 | 8 | Mar 3 |  |  |  | **Midterm exam: in class** |
@@ -48,7 +48,7 @@ location: "Hong Kong"
 | 13 | Apr 7 | **No class – Easter** |  |  |  |
 | 14 | Apr 14 | Phrasal movement I | ISAT: 210-223 |  |  |
 | 15 | Apr 21 | Phrasal movement II | ISAT: 259-266 |  | **Homework 2 due** |
-| 16 | Apr 25 |  |  |  | **Final exam: 10 am-12 noon, location TBA** |
+| 16 | Apr 25 |  |  |  | **Final exam: 10:00 am - 12:00, location TBA** |
 
 ### Useful Links
 * [Blackboard](https://blackboard.cuhk.edu.hk/ultra/courses/_171592_1/cl/outline)
