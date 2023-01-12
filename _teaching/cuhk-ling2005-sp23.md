@@ -48,7 +48,7 @@ location: "Hong Kong"
 | 13 | Apr 7 | **No class – Easter** |  |  |  |
 | 14 | Apr 14 | Phrasal movement I | ISAT: 210-223 |  |  |
 | 15 | Apr 21 | Phrasal movement II | ISAT: 259-266 |  | **Homework 2 due** |
-| 16 | Apr 25 |  |  |  | **Final exam: 10:00 am - 12:00, location TBA** |
+| 16 | Apr 25 |  |  |  | **Final exam: 10 am - 12, location TBA** |
 
 ### Useful Links
 * [Blackboard](https://blackboard.cuhk.edu.hk/ultra/courses/_171592_1/cl/outline)
