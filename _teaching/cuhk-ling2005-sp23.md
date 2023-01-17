@@ -10,7 +10,7 @@ location: "Hong Kong"
 
 ### Meeting Time and Location
 * Lecture: Friday 9:30-11:15, Leung Kau Kui Building 101
-* Tutorial: Wednesday 13:30-14:15, TBD
+* Tutorial: Wednesday 13:30-14:15, Hui Yeung Shing Building G03
 
 ### Teaching Staff 
 * Instructor: Dr. Zhuo Chen
