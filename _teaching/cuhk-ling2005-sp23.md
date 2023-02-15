@@ -34,11 +34,11 @@ location: "Hong Kong"
 | **Week** | **Date** | **Topic** | **Readings** | **Materials** | **Events** |
 |----------|----------|-----------|--------------|---------------|------------|
 | 1 | Jan 13 | What is syntax? Starting with words | ISAT: 1-37 |  |  |
-| 2 | Jan 20 | Word structure, Constituency | ISAT: 1-37, 43-50 |  |  |
+| 2 | Jan 20 | Word structure, Constituency | ISAT: 1-37, 43-50 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w2_tut_slide.pdf) |  |
 | 3 | Jan 27 | **No class – Lunar New Year** |  |  |  |
 | 4 | Feb 3 | Trees & Constituency tests | ISAT: 50-79 |  |  |
-| 5 | Feb 10 | Clause and phrase structure | ISAT: 87-122 |  | Homework 1 out |
-| 6 | Feb 17 | X-bar theory | ISAT: 127-152 |  |  |
+| 5 | Feb 10 | Clause and phrase structure | ISAT: 87-122 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w5_tut_slide.pdf) | Homework 1 out |
+| 6 | Feb 17 | X-bar theory | ISAT: 127-152 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w6_tut_slide.pdf) |  |
 | 7 | Feb 24 | Binding Theory I | ISAT: 157-172 |  | **Homework 1 due** |
 | 8 | Mar 3 |  |  |  | **Midterm exam: in class** |
 | 9 | Mar 10 | **No class – Reading week** |  |  |  |
