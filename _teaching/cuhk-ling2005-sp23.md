@@ -31,24 +31,24 @@ location: "Hong Kong"
 
 ### Course Schedule
 
-| **Week** | **Date** | **Topic** | **Readings** | **Materials** | **Events** |
-|----------|----------|-----------|--------------|---------------|------------|
-| 1 | Jan 13 | What is syntax? Starting with words | ISAT: 1-37 |  |  |
-| 2 | Jan 20 | Word structure, Constituency | ISAT: 1-37, 43-50 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w2_tut_slide.pdf) |  |
-| 3 | Jan 27 | **No class – Lunar New Year** |  |  |  |
-| 4 | Feb 3 | Trees & Constituency tests | ISAT: 50-79 |  |  |
-| 5 | Feb 10 | Clause and phrase structure | ISAT: 87-122 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w5_tut_slide.pdf) | Homework 1 out |
-| 6 | Feb 17 | X-bar theory | ISAT: 127-152 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w6_tut_slide.pdf) |  |
-| 7 | Feb 24 | Binding Theory I | ISAT: 157-172 |  | **Homework 1 due** |
-| 8 | Mar 3 |  |  |  | **Midterm exam: in class** |
-| 9 | Mar 10 | **No class – Reading week** |  |  |  |
-| 10 | Mar 17 | Binding Theory II | ISAT: 173-183 |  |  |
-| 11 | Mar 24 | Head movement I | ISAT: 191-203 |  |  |
-| 12 | Mar 31 | Head movement II | ISAT: 191-203 |  | Homework 2 out |
-| 13 | Apr 7 | **No class – Easter** |  |  |  |
-| 14 | Apr 14 | Phrasal movement I | ISAT: 210-223 |  |  |
-| 15 | Apr 21 | Phrasal movement II | ISAT: 259-266 |  | **Homework 2 due** |
-| 16 | Apr 25 |  |  |  | **Final exam: 10 am - 12, location TBA** |
+| **Week** | **Date** | **Topic** | **Tutorial** | **Readings** | **Materials** | **Events** |
+|----------|----------|-----------|--------------|--------------|---------------|------------|
+| 1 | Jan 13 | What is syntax? Starting with words | N/A | ISAT: 1-37 |  |  |
+| 2 | Jan 20 | Word structure, Constituency | Jan 18 | ISAT: 1-37, 43-50 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w2_tut_slide.pdf) |  |
+| 3 | Jan 27 | **No class – Lunar New Year** | N/A |  |  |  |
+| 4 | Feb 3 | Trees & Constituency tests | Feb 1 | ISAT: 50-79 |  |  |
+| 5 | Feb 10 | Clause and phrase structure | Feb 8 | ISAT: 87-122 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w5_tut_slide.pdf) | Homework 1 out |
+| 6 | Feb 17 | X-bar theory | Feb 15 | ISAT: 127-152 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w6_tut_slide.pdf) |  |
+| 7 | Feb 24 | Binding Theory I | Feb 22 | ISAT: 157-172 |  | **Homework 1 due** |
+| 8 | Mar 3 |  | TBD |  |  | **Midterm exam: in class** |
+| 9 | Mar 10 | **No class – Reading week** | N/A |  |  |  |
+| 10 | Mar 17 | Binding Theory II | Mar 15 | ISAT: 173-183 |  |  |
+| 11 | Mar 24 | Head movement I | Mar 22 | ISAT: 191-203 |  |  |
+| 12 | Mar 31 | Head movement II | Mar 29 | ISAT: 191-203 |  | Homework 2 out |
+| 13 | Apr 7 | **No class – Easter** | N/A |  |  |  |
+| 14 | Apr 14 | Phrasal movement I | Apr 12 | ISAT: 210-223 |  |  |
+| 15 | Apr 21 | Phrasal movement II | Apr 19 | ISAT: 259-266 |  | **Homework 2 due** |
+| 16 | Apr 25 |  | |  |  | **Final exam: 10 am - 12, location TBA** |
 
 ### Useful Links
 * [Blackboard](https://blackboard.cuhk.edu.hk/ultra/courses/_171592_1/cl/outline)
