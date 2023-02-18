@@ -68,6 +68,6 @@ Natural Language Processing, Computational Linguistics, Information Extraction (
 ## Skills
 
 * *Operating Systems*: Windows, Linux, macOS
-* *Programming*: Java, Python (NumPy, pandas, PyTorch, Transformers), MATLAB, Visual Basic, STATA, R, SQL
+* *Programming*: Java, Python (NumPy, pandas, PyTorch, Transformers), MATLAB, Visual Basic, STATA, R, SQL, MongoDB
 * *Software*: Microsoft Office (Word, Excel, PowerPoint), LaTeX, Maple, Praat, E-Prime, Adobe Photoshop, Adobe Audition
 * *Languages*: Mandarin and Wu Chinese (native), English (fluent), Korean (intermediate), Japanese, Spanish and Cantonese (basic), Classical Chinese (fluent in written language)
