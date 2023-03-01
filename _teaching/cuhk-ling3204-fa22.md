@@ -15,13 +15,13 @@ location: "Hong Kong"
 ### Teaching Staff 
 * Instructor: Dr. Jiangling Zhou
   * Email: [jiangling.zhou\[at\]cuhk.edu.hk](mailto:jiangling.zhou@cuhk.edu.hk) 
-  * Office hour: By appointment 
+  * Office hours: By appointment 
 * Teaching Assistant: Yige Chen
   * Email: [yigechen\[at\]link.cuhk.edu.hk](mailto:yigechen@link.cuhk.edu.hk) 
-  * Office hour: By appointment 
+  * Office hours: By appointment 
 * Teaching Assistant: Ziyan Meng
   * Email: [ziyan\[at\]link.cuhk.edu.hk](mailto:ziyan@link.cuhk.edu.hk) 
-  * Office hour: By appointment 
+  * Office hours: By appointment 
 
 ### Course Syllabus 
 * [Syllabus](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/fa22/LING%203204%20Second%20Language%20Acquisition_course%20outline_2022-2023_v3.pdf)
