@@ -40,7 +40,7 @@ location: "Hong Kong"
 | 5 | Feb 10 | Clause and phrase structure | Feb 8 | ISAT: 87-122 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w5_tut_slide.pdf) | Homework 1 out |
 | 6 | Feb 17 | X-bar theory | Feb 15 | ISAT: 127-152 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w6_tut_slide.pdf) |  |
 | 7 | Feb 24 | Binding Theory I | Feb 22 | ISAT: 157-172 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w7_tut_slide.pdf) | **Homework 1 due** |
-| 8 | Mar 3 |  | Mar 1 |  |  | **Midterm exam: in class** |
+| 8 | Mar 3 |  | Mar 1 |  | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w8_tut_slide.pdf) | **Midterm exam: in class** |
 | 9 | Mar 10 | **No class – Reading week** | N/A |  |  |  |
 | 10 | Mar 17 | Binding Theory II | Mar 15 | ISAT: 173-183 |  |  |
 | 11 | Mar 24 | Head movement I | Mar 22 | ISAT: 191-203 |  |  |
