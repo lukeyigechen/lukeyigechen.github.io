@@ -15,10 +15,10 @@ location: "Hong Kong"
 ### Teaching Staff 
 * Instructor: Dr. Zhuo Chen
   * Email: [zhuochen\[at\]cuhk.edu.hk](mailto:zhuochen@cuhk.edu.hk) 
-  * Office hour: by appointment 
+  * Office hours: by appointment 
 * Teaching Assistant: Yige Chen
   * Email: [yigechen\[at\]link.cuhk.edu.hk](mailto:yigechen@link.cuhk.edu.hk) 
-  * Office hour: by appointment  
+  * Office hours: by appointment  
 
 ### Course Syllabus 
 * [Syllabus](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/Ling2005_Syntax%20I_2nd%20term%2022-23.pdf)
