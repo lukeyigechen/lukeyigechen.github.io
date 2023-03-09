@@ -42,7 +42,7 @@ location: "Hong Kong"
 | 7 | Feb 24 | Binding Theory I | Feb 22 | ISAT: 157-172 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w7_tut_slide.pdf) | **Homework 1 due** |
 | 8 | Mar 3 |  | Mar 1 |  | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w8_tut_slide.pdf) | **Midterm exam: in class** |
 | 9 | Mar 10 | **No class – Reading week** | N/A |  |  |  |
-| 10 | Mar 17 | Binding Theory II | Mar 15 | ISAT: 173-183 |  |  |
+| 10 | Mar 17 | Binding Theory II | N/A | ISAT: 173-183 |  |  |
 | 11 | Mar 24 | Head movement I | Mar 22 | ISAT: 191-203 |  |  |
 | 12 | Mar 31 | Head movement II | Mar 29 | ISAT: 191-203 |  | Homework 2 out |
 | 13 | Apr 7 | **No class – Easter** | N/A |  |  |  |
