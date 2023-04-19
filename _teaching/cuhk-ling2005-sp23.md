@@ -43,12 +43,12 @@ location: "Hong Kong"
 | 8 | Mar 3 |  | Mar 1 |  | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w8_tut_slide.pdf) | **Midterm exam: in class** |
 | 9 | Mar 10 | **No class – Reading week** | N/A |  |  |  |
 | 10 | Mar 17 | Binding Theory II | N/A | ISAT: 173-183 |  |  |
-| 11 | Mar 24 | Head movement I | Mar 22 | ISAT: 191-203 |  |  |
-| 12 | Mar 31 | Head movement II | Mar 29 | ISAT: 191-203 |  | Homework 2 out |
+| 11 | Mar 24 | Head movement I | Mar 22 | ISAT: 191-203 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w11_tut_slide.pdf) |  |
+| 12 | Mar 31 | Head movement II | Mar 29 | ISAT: 191-203 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w12_tut_slide.pdf) | Homework 2 out |
 | 13 | Apr 7 | **No class – Easter** | N/A |  |  |  |
-| 14 | Apr 14 | Phrasal movement I | Apr 12 | ISAT: 210-223 |  |  |
-| 15 | Apr 21 | Phrasal movement II | Apr 19 | ISAT: 259-266 |  | **Homework 2 due** |
-| 16 | Apr 25 |  | |  |  | **Final exam: 10 am - 12, location TBA** |
+| 14 | Apr 14 | Phrasal movement I | Apr 12 | ISAT: 210-223 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w14_tut_slide.pdf) |  |
+| 15 | Apr 21 | Phrasal movement II | Apr 19 | ISAT: 259-266 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/sp23/ling2005_w15_tut_slide.pdf) | **Homework 2 due** |
+| 16 | Apr 25 |  | |  |  | **Final exam: Tue, Apr 25, 10 am - 12, WMY 505** |
 
 ### Useful Links
 * [Blackboard](https://blackboard.cuhk.edu.hk/ultra/courses/_171592_1/cl/outline)
