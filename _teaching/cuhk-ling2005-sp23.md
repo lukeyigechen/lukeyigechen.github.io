@@ -26,7 +26,7 @@ location: "Hong Kong"
 ### Assessment Scheme
 * Homework assignments (40%): There will be 2 written homework assignments. 20% will be taken off for each day late.
 * Midterm (25%): There will be 1 in-class midterm on Mar 3.
-* Final exam (25%): There will be 1 final exam on Apr 25. Exact place TBA. 
+* Final exam (25%): There will be 1 final exam on Apr 25, at WMY 505. 
 * Participation (10%): Active participation in lectures and class activities are required. For each missed class meeting without a documented family or medical emergence, 2% will be taken off. 
 
 ### Course Schedule
