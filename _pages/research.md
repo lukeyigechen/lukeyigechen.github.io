@@ -13,15 +13,15 @@ author_profile: true
 
 {% include base_path %}
 
-(&ast;- equal contributions)
+(\*- equal contributions)
 
 ## Publications
 
-* **Yige Chen**&ast;, Eunkyul Leah Jo&ast;, Yundong Yao&ast;, KyungTae Lim, Miikka Silfverberg, Francis Tyers, and Jungyeul Park. Yet Another Format of Universal Dependencies for Korean. In *Proceedings of the 29th International Conference on Computational Linguistics (COLING)*. 2022. 
+* **Yige Chen**\*, Eunkyul Leah Jo\*, Yundong Yao\*, KyungTae Lim, Miikka Silfverberg, Francis Tyers, and Jungyeul Park. Yet Another Format of Universal Dependencies for Korean. In *Proceedings of the 29th International Conference on Computational Linguistics (COLING)*. 2022. 
 
 ## Working Papers
 
-* **Yige Chen**&ast;, KyungTae Lim&ast;, and Jungyeul Park. Korean Named Entity Recognition Based on Language-Specific Features. (Under review)
+* **Yige Chen**\*, KyungTae Lim\*, and Jungyeul Park. Korean Named Entity Recognition Based on Language-Specific Features. (Under review)
 
 ## In Preparation
 
