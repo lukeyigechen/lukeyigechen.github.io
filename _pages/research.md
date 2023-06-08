@@ -17,7 +17,7 @@ author_profile: true
 
 ## Publications
 
-* **Yige Chen**\*, KyungTae Lim\*, and Jungyeul Park. Korean Named Entity Recognition Based on Language-Specific Features. To appear in *Natural Language Engineering*. 2023
+* **Yige Chen**\*, KyungTae Lim\*, and Jungyeul Park. Korean Named Entity Recognition Based on Language-Specific Features. To appear in *Natural Language Engineering*. 2023.
 * **Yige Chen**\*, Eunkyul Leah Jo\*, Yundong Yao\*, KyungTae Lim, Miikka Silfverberg, Francis Tyers, and Jungyeul Park. Yet Another Format of Universal Dependencies for Korean. In *Proceedings of the 29th International Conference on Computational Linguistics (COLING)*. 2022. 
 
 <!--## Working Papers-->
