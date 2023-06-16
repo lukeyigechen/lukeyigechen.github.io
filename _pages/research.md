@@ -26,7 +26,7 @@ author_profile: true
 
 * Unifying representations in pre-trained language models for Chinese and Korean (with Haihua Pan)
 * Financial forecasting using language models (with Yi Yang)
-* Korean FrameNet parsing based on linguistic properties (with Kyuwon Kim, Eunkyul Leah Jo, KyungTae Lim, Haihua Pan, and Jungyeul Park)
+* Korean FrameNet parsing based on linguistic properties (with Jae Ihn, Eunkyul Leah Jo, Kyuwon Kim, KyungTae Lim, and Jungyeul Park)
 * Foreign languages and decision-making (with Keehyung Kim)
 * Large language models and subject extraction for Chinese (with Xufeng Duan, Zhenguang G. Cai, and Haihua Pan)
 <!--* Autoregressive language models and language acquisition (with Zebo Xu, Haihua Pan, and Zhenguang G. Cai)-->
