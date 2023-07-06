@@ -27,6 +27,7 @@ author_profile: true
 ## In Preparation
 
 * Unifying representations in pre-trained language models for Chinese and Korean (with Haihua Pan)
+* Treebank construction for Wu Chinese (with Haihua Pan)
 * Financial forecasting using language models (with Yi Yang)
 * Foreign languages and decision-making (with Keehyung Kim)
 * Revising Universal Dependencies for Korean (with Kyuwon Kim, Eunkyul Leah Jo, Jungyeul Park, and Chulwoo Park)
