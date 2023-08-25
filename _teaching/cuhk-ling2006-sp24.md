@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ling2006/sp24
 venue: "Department of Linguistics and Modern Languages, Chinese University of Hong Kong"
-date: 2023-01-08
+date: 2024-01-08
 location: "Hong Kong"
 ---
 
