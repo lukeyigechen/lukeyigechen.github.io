@@ -34,7 +34,7 @@ location: "Hong Kong"
 |----------|----------|-----------|--------------|--------------|---------------|------------|
 | 1 | Sept 6 | **No class - Prof. Cheung out of HK** | N/A |  |  |  |
 | 2 | Sept 13 | Introduction | Sept 14 | Sportiche et al. Ch. 1; Huddleston & Pullum (2002) Prescriptive and descriptive approaches (p. 5-11); (Optional: Carnie, Ch. 1, §3) |  |  |
-| 2 | Sept 16 | Constituency I | N/A | Sportiche et al. Ch. 3; (Optional: Carnie, Ch. 3; Haegeman 2006, Ch. 2, §1) |  | **Make-up session** |
+| 2 | Sept 16 | Constituency I | N/A | Sportiche et al. Ch. 3; (Optional: Carnie, Ch. 3; Haegeman 2006, Ch. 2, §1) |  | **Make-up session: 10:30am-12:15pm, YIA201** |
 | 3 | Sept 20 | Constituency II | Sept 21 | Sportiche et al. Ch. 3; (Optional: Carnie, Ch. 3; Haegeman 2006, Ch. 2, §1) |  |  |
 | 4 | Oct 4 | Phrases I | Oct 5 | Sportiche et al. Ch. 4, 5 |  |  |
 | 5 | Oct 11 | Phrases II | Oct 12 | Sportiche et al. Ch. 4, 5 |  |  |
