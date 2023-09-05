@@ -30,7 +30,7 @@ location: "Hong Kong"
 
 ### Course Schedule
 
-| **Week** | **Date** | **Topic** | **Tutorial** | **Readings** | **Materials** | **Events** |
+| **Week** | **Lecture** | **Topic** | **Tutorial** | **Readings** | **Materials** | **Events** |
 |----------|----------|-----------|--------------|--------------|---------------|------------|
 | 1 | Sept 6 | **No class - Prof. Cheung out of HK** | N/A |  |  |  |
 | 2 | Sept 13 | Introduction | Sept 14 | Sportiche et al. Ch. 1; Huddleston & Pullum (2002) Prescriptive and descriptive approaches (p. 5-11); (Optional: Carnie, Ch. 1, §3) |  |  |
