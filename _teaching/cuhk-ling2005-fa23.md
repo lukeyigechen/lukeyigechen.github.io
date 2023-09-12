@@ -15,10 +15,10 @@ location: "Hong Kong"
 ### Teaching staff 
 * Instructor: Prof. Lawrence Cheung
   * Email: [yllcheung\[at\]cuhk.edu.hk](mailto:yllcheung@cuhk.edu.hk) 
-  * Office hours: Thursday 14:30-16:30 at G11, Leung Kau Kui Building
+  * Office hours: Thursday 14:30-16:30, at G11 Leung Kau Kui Building or via Zoom
 * Teaching assistant: Yige Chen
   * Email: [yigechen\[at\]link.cuhk.edu.hk](mailto:yigechen@link.cuhk.edu.hk) 
-  * Office hours: Tuesday 13:00-15:00 at G19, Leung Kau Kui Building 
+  * Office hours: Tuesday 13:00-15:00, at G19 Leung Kau Kui Building or via Zoom
 
 ### Course Syllabus 
 * [Syllabus](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/fa23/LING2005_Course_Outline.pdf)
