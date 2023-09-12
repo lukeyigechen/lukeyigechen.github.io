@@ -34,18 +34,21 @@ location: "Hong Kong"
 |----------|----------|-----------|--------------|--------------|---------------|------------|
 | 1 | Sept 6 | **No class - Prof. Cheung out of HK** | N/A |  |  |  |
 | 2 | Sept 13 | Introduction | N/A | Sportiche et al. Ch. 1; Huddleston & Pullum (2002) Prescriptive and descriptive approaches (p. 5-11); (Optional: Carnie, Ch. 1, §3) |  |  |
-| 2 | Sept 16 | Constituency I | N/A | Sportiche et al. Ch. 3; (Optional: Carnie, Ch. 3; Haegeman 2006, Ch. 2, §1) |  | **Make-up session: 10:30am-12:15pm, YIA201** |
+| 2<sup>a</sup> | Sept 16 | Constituency I | N/A | Sportiche et al. Ch. 3; (Optional: Carnie, Ch. 3; Haegeman 2006, Ch. 2, §1) |  | **Make-up session: 10:30am-12:15pm, YIA201** |
 | 3 | Sept 20 | Constituency II | Sept 21 | Sportiche et al. Ch. 3; (Optional: Carnie, Ch. 3; Haegeman 2006, Ch. 2, §1) |  |  |
-| 4 | Oct 4 | Phrases I | Oct 5 | Sportiche et al. Ch. 4, 5 |  |  |
-| 5 | Oct 11 | Phrases II | Oct 12 | Sportiche et al. Ch. 4, 5 |  |  |
-| 6 | Oct 18 | X-bar theory I | Oct 19 | Sportiche et al. Ch. 6 (§6.1--§6.7); (Optional: Radford 1988, §4.3--§4.7) |  |  |
-| 7 | Oct 25 | **Midterm Exam** | Oct 26 |  |  | **Midterm Exam: in class** |
-| 8 | Nov 1 | X-bar theory II; Structural relations | Nov 2 | Sportiche et al. Ch. 6 (§6.1--§6.7); (Optional: Radford 1988, §4.3--§4.7) |  |  |
-| 9 | Nov 8 | Binding Theory I | Nov 9 | Sportiche et al. Ch. 7; (Optional: Carnie, Ch. 5) |  |  |
-| 10 | Nov 15 | Binding Theory II | Nov 16 | Sportiche et al. Ch. 7; (Optional: Carnie, Ch. 5) |  |  |
-| 11 | Nov 22 | *Wh*-movement I | Nov 23 | Sportiche et al. Ch. 10 & 14 |  |  |
-| 12 | Nov 29 | *Wh*-movement II | Nov 30 | Sportiche et al. Ch. 8 (§8.3 only), Ch. 10 & 14 |  |  |
-| 13 | Dec 4 | **Final Exam** | N/A |  |  | **Final Exam: 2:30-4:15pm** |
+| 4 | Sept 27 | Constituency III | Sept 28 | Sportiche et al. Ch. 3; (Optional: Carnie, Ch. 3; Haegeman 2006, Ch. 2, §1) |  |  |
+| 5 | Oct 4 | Phrases I | Oct 5 | Sportiche et al. Ch. 4, 5 |  |  |
+| 6 | Oct 11 | Phrases II | Oct 12 | Sportiche et al. Ch. 4, 5 |  |  |
+| 7 | Oct 18 | X-bar theory I | Oct 19 | Sportiche et al. Ch. 6 (§6.1--§6.7); (Optional: Radford 1988, §4.3--§4.7) |  |  |
+| 8 | Oct 25 | **Midterm Exam** | Oct 26 |  |  | **Midterm Exam: in class** |
+| 9 | Nov 1 | X-bar theory II; Structural relations | Nov 2 | Sportiche et al. Ch. 6 (§6.1--§6.7); (Optional: Radford 1988, §4.3--§4.7) |  |  |
+| 10 | Nov 8 | Binding Theory I | Nov 9 | Sportiche et al. Ch. 7; (Optional: Carnie, Ch. 5) |  |  |
+| 11 | Nov 15 | Binding Theory II | Nov 16 | Sportiche et al. Ch. 7; (Optional: Carnie, Ch. 5) |  |  |
+| 12 | Nov 22 | *Wh*-movement I | Nov 23 | Sportiche et al. Ch. 10 & 14 |  |  |
+| 13 | Nov 29 | *Wh*-movement II | Nov 30 | Sportiche et al. Ch. 8 (§8.3 only), Ch. 10 & 14 |  |  |
+| 14 | Dec 4 | **Final Exam** | N/A |  |  | **Final Exam: 2:30-4:15pm** |
+
+<sup>a</sup> This is a special make-up class to be held on Saturday morning. Details will be announced soon. The lecture will also be video recorded in case you cannot attend this class at this time.
 
 ### Useful Links
 * [Blackboard](https://blackboard.cuhk.edu.hk/ultra/courses/_184412_1/cl/outline)
