@@ -10,7 +10,7 @@ location: "Hong Kong"
 
 ### Meeting time and location
 * Lecture: Wednesday 14:30-16:15, Leung Kau Kui Building 101
-* Tutorial: Thursday 17:30-18:15, TBA
+* Tutorial: Thursday 17:30-18:15, Lee Shau Kee Building 201
 
 ### Teaching staff 
 * Instructor: Prof. Lawrence Cheung
