@@ -18,7 +18,7 @@ location: "Hong Kong"
   * Office hours: Thursday 14:30-16:30, at G11 Leung Kau Kui Building or via Zoom
 * Teaching assistant: Yige Chen
   * Email: [yigechen\[at\]link.cuhk.edu.hk](mailto:yigechen@link.cuhk.edu.hk) 
-  * Office hours: Tuesday 13:00-15:00, at G19 Leung Kau Kui Building or via Zoom
+  * Office hours: Tuesday and Wednesday 13:00-14:00, at G19 Leung Kau Kui Building or via Zoom
 
 ### Course Syllabus 
 * [Syllabus](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/fa23/LING2005_Course_Outline.pdf)
