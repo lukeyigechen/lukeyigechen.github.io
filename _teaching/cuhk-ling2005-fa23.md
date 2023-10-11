@@ -37,7 +37,7 @@ location: "Hong Kong"
 | 2<sup>a</sup> | Sept 16 | Constituency I | N/A | Sportiche et al. Ch. 3; (Optional: Carnie, Ch. 3; Haegeman 2006, Ch. 2, §1) |  | **Make-up session: 10:30am-12:15pm, YIA201** |
 | 3 | Sept 20 | Constituency II | Sept 21 | Sportiche et al. Ch. 3; (Optional: Carnie, Ch. 3; Haegeman 2006, Ch. 2, §1) | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/fa23/ling2005_fa23_w3_tut_s.pdf) |  |
 | 4 | Sept 27 | Constituency III | Sept 28 | Sportiche et al. Ch. 3; (Optional: Carnie, Ch. 3; Haegeman 2006, Ch. 2, §1) | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/fa23/ling2005_fa23_w4_tut_s.pdf) |  |
-| 5 | Oct 4 | Phrases I | Oct 5 | Sportiche et al. Ch. 4, 5 |  |  |
+| 5 | Oct 4 | Phrases I | Oct 5 | Sportiche et al. Ch. 4, 5 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/fa23/ling2005_fa23_w5_tut_s.pdf) |  |
 | 6 | Oct 11 | Phrases II | Oct 12 | Sportiche et al. Ch. 4, 5 |  | **Assignment 1 due (Oct 14)** |
 | 7 | Oct 18 | X-bar theory I | Oct 19 | Sportiche et al. Ch. 6 (§6.1--§6.7); (Optional: Radford 1988, §4.3--§4.7) |  |  |
 | 8 | Oct 25 | **Midterm Exam** | Oct 26 |  |  | **Midterm Exam: in class** |
