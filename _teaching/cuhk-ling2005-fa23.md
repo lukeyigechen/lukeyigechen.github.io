@@ -38,8 +38,8 @@ location: "Hong Kong"
 | 3 | Sept 20 | Constituency II | Sept 21 | Sportiche et al. Ch. 3; (Optional: Carnie, Ch. 3; Haegeman 2006, Ch. 2, §1) | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/fa23/ling2005_fa23_w3_tut_s.pdf) |  |
 | 4 | Sept 27 | Constituency III | Sept 28 | Sportiche et al. Ch. 3; (Optional: Carnie, Ch. 3; Haegeman 2006, Ch. 2, §1) | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/fa23/ling2005_fa23_w4_tut_s.pdf) |  |
 | 5 | Oct 4 | Phrases I | Oct 5 | Sportiche et al. Ch. 4, 5 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/fa23/ling2005_fa23_w5_tut_s.pdf) |  |
-| 6 | Oct 11 | Phrases II | Oct 12 | Sportiche et al. Ch. 4, 5 |  | **Assignment 1 due (Oct 14)** |
-| 7 | Oct 18 | **Midterm Exam** | Oct 19 |  |  | **Midterm Exam: in class** |
+| 6 | Oct 11 | Phrases II | Oct 12 | Sportiche et al. Ch. 4, 5 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/fa23/ling2005_fa23_w6_tut_s.pdf) | **Assignment 1 due (Oct 14)** |
+| 7 | Oct 18 | **Midterm Exam** | N/A |  |  | **Midterm Exam: in class** |
 | 8 | Oct 25 | X-bar theory I | Oct 26 | Sportiche et al. Ch. 6 (§6.1--§6.7); (Optional: Radford 1988, §4.3--§4.7) |  |  |
 | 9 | Nov 1 | X-bar theory II; Structural relations | Nov 2 | Sportiche et al. Ch. 6 (§6.1--§6.7); (Optional: Radford 1988, §4.3--§4.7) |  |  |
 | 10 | Nov 8 | Binding Theory I | Nov 9 | Sportiche et al. Ch. 7; (Optional: Carnie, Ch. 5) |  |  |
