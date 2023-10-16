@@ -55,8 +55,8 @@ Natural Language Processing, Computational Linguistics, Information Extraction (
 * Teaching Assistant (September 2022 – Present)
   * The Chinese University of Hong Kong
   * Courses: 
-    * LING2005 Syntax I \[Spring 2023\]
-    * LING3204 Second Language Acquisition \[Fall 2022\] 
+    * LING2005 Syntax I (Fall 2023, Spring 2023)
+    * LING3204 Second Language Acquisition (Fall 2022) 
 
 * Language Tutor (February 2018 – May 2020)
   * Greater University Tutoring Services (GUTS), University of Wisconsin–Madison
@@ -67,4 +67,4 @@ Natural Language Processing, Computational Linguistics, Information Extraction (
 * *Operating Systems*: Windows, Linux, macOS
 * *Programming*: Java, Python (NumPy, pandas, PyTorch, Transformers), MATLAB, Visual Basic, STATA, R, SQL, MongoDB
 * *Software*: Microsoft Office (Word, Excel, PowerPoint), LaTeX, Maple, Praat, E-Prime, Adobe Photoshop, Adobe Audition
-* *Languages*: Mandarin and Wu Chinese (native), English (fluent), Korean (intermediate), Japanese, Spanish and Cantonese (basic), Classical Chinese (fluent in written language)
+* *Languages*: Wu Chinese (native), Mandarin Chinese and English (fluent), Korean (intermediate), Japanese, Spanish and Cantonese (basic), Classical Chinese (fluent in written language)
