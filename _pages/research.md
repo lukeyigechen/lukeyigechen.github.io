@@ -22,15 +22,17 @@ author_profile: true
 
 ## Working Papers
 
-* Korean FrameNet parsing using linguistic properties (with Jae Ihn, Eunkyul Leah Jo, Kyuwon Kim, KyungTae Lim, and Jungyeul Park)
+* Korean FrameNet parsing using linguistic properties (with Jae Ihn, KyungTae Lim, and Jungyeul Park)
+* Linguistic methodologies for Korean semantic role labeling (with KyungTae Lim, and Jungyeul Park)
+* Revising Universal Dependencies for Korean (with Kyuwon Kim, Eunkyul Leah Jo, KyungTae Lim, Jungyeul Park, and Chulwoo Park)
+* Verb lexicon in the Sejong dictionary (with Eunkyul Leah Jo, Kyuwon Kim, KyungTae Lim, Jungyeul Park, and Chulwoo Park)
 
 ## In Preparation
 
-* Unifying representations in pre-trained language models for Chinese and Korean (with Haihua Pan)
 * Treebank construction for Wu Chinese (with Haihua Pan)
+* Unifying representations in pre-trained language models for Chinese and Korean (with Haihua Pan)
 * Financial forecasting using language models (with Yi Yang)
 * Foreign languages and decision-making (with Keehyung Kim)
-* Revising Universal Dependencies for Korean (with Kyuwon Kim, Eunkyul Leah Jo, Jungyeul Park, and Chulwoo Park)
-* Building the Korean VerbNet (with Eunkyul Leah Jo, Kyuwon Kim, Jungyeul Park, and Chulwoo Park)
-* Large language models and subject extraction for Chinese (with Xufeng Duan, Zhenguang G. Cai, and Haihua Pan)
+* Identification of complements and adjuncts in Korean (with Kyuwon Kim, and Jungyeul Park)
 * Autoregressive language models and language acquisition (with Zebo Xu, Haihua Pan, and Zhenguang G. Cai)
+* Back-translation with decoder-only transformer models (with Yumeng Lin, Xufeng Duan, and Zhenguang G. Cai)
