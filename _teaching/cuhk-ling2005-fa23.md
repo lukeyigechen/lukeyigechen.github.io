@@ -41,11 +41,11 @@ location: "Hong Kong"
 | 6 | Oct 11 | Phrases II | Oct 12 | Sportiche et al. Ch. 4, 5 | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/fa23/ling2005_fa23_w6_tut_s.pdf) | **Assignment 1 due (Oct 14)** |
 | 7 | Oct 18 | **Midterm Exam** | N/A |  |  | **Midterm Exam: in class** |
 | 8 | Oct 25 | X-bar theory I | Oct 26 | Sportiche et al. Ch. 6 (§6.1--§6.7); (Optional: Radford 1988, §4.3--§4.7) | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/fa23/ling2005_fa23_w8_tut_s.pdf) |  |
-| 9 | Nov 1 | X-bar theory II; Structural relations | Nov 2 | Sportiche et al. Ch. 6 (§6.1--§6.7); (Optional: Radford 1988, §4.3--§4.7) |  |  |
-| 10 | Nov 8 | Binding Theory I | N/A | Sportiche et al. Ch. 7; (Optional: Carnie, Ch. 5) |  |  |
-| 11 | Nov 15 | Binding Theory II | Nov 16 | Sportiche et al. Ch. 7; (Optional: Carnie, Ch. 5) |  |  |
-| 12 | Nov 22 | *Wh*-movement I | Nov 23 | Sportiche et al. Ch. 10 & 14 |  |  |
-| 13 | Nov 29 | *Wh*-movement II | Nov 30 | Sportiche et al. Ch. 8 (§8.3 only), Ch. 10 & 14 |  |  |
+| 9 | Nov 1 | X-bar theory II | Nov 2 | Sportiche et al. Ch. 6 (§6.1--§6.7); (Optional: Radford 1988, §4.3--§4.7) | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/fa23/ling2005_fa23_w9_tut_s.pdf) |  |
+| 10 | Nov 8 | Structural relations | N/A | Sportiche et al. Ch. 6 (§6.1--§6.7); (Optional: Radford 1988, §4.3--§4.7) |  |  |
+| 11 | Nov 15 | Binding Theory I | Nov 16 | Sportiche et al. Ch. 7; (Optional: Carnie, Ch. 5) | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/fa23/ling2005_fa23_w11_tut_s.pdf) |  |
+| 12 | Nov 22 | Binding Theory II | Nov 23 | Sportiche et al. Ch. 7; (Optional: Carnie, Ch. 5) |  |  |
+| 13 | Nov 29 | Binding Theory III | Nov 30 | Sportiche et al. Ch. 7; (Optional: Carnie, Ch. 5) |  | **Assignment 2 due (Nov 27)** |
 | 14 | Dec 4 | **Final Exam** | N/A |  |  | **Final Exam: 2:30-4:15pm** |
 
 <sup>a</sup> This is a special make-up class to be held on Saturday morning. Details will be announced soon. The lecture will also be video recorded in case you cannot attend this class at this time.
