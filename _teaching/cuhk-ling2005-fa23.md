@@ -46,7 +46,7 @@ location: "Hong Kong"
 | 11 | Nov 15 | Binding Theory I | Nov 16 | Sportiche et al. Ch. 7; (Optional: Carnie, Ch. 5) | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/fa23/ling2005_fa23_w11_tut_s.pdf) |  |
 | 12 | Nov 22 | Binding Theory II | Nov 23 | Sportiche et al. Ch. 7; (Optional: Carnie, Ch. 5) | [\[Tutorial Slides\]](https://github.com/lukeyigechen/lukeyigechen.github.io/raw/master/files/fa23/ling2005_fa23_w12_tut_s.pdf) |  |
 | 13 | Nov 29 | Binding Theory III | Nov 30 | Sportiche et al. Ch. 7; (Optional: Carnie, Ch. 5) |  | **Assignment 2 due (Nov 27)** |
-| 14 | Dec 4 | **Final Exam** | N/A |  |  | **Final Exam: 2:30-4:15pm** |
+| 14 | Dec 4 | **Final Exam** | N/A |  |  | **Final Exam: 2:30-4:15pm, LSK LT2** |
 
 <sup>a</sup> This is a special make-up class to be held on Saturday morning. Details will be announced soon. The lecture will also be video recorded in case you cannot attend this class at this time.
 
