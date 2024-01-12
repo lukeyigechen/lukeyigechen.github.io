@@ -15,7 +15,7 @@ location: "Hong Kong"
 ### Teaching Staff 
 * Instructor: Dr. Zhuo Chen
   * Email: [zhuochen\[at\]cuhk.edu.hk](mailto:zhuochen@cuhk.edu.hk) 
-  * Office hours: by appointment 
+  * Office hours: 1 hr before midterm, 2 hrs before final, otherwise by appointment 
 * Teaching Assistant: Yige Chen
   * Email: [yigechen\[at\]link.cuhk.edu.hk](mailto:yigechen@link.cuhk.edu.hk) 
   * Office hours: Wednesday 14:00-16:00, at G19 Leung Kau Kui Building or via Zoom
