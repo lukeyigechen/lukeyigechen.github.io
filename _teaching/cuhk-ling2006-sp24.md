@@ -21,7 +21,7 @@ location: "Hong Kong"
   * Office hours: Wednesday 14:00-16:00, at G19 Leung Kau Kui Building or via Zoom
 
 ### Course Syllabus 
-* [Syllabus](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/c438d0da1a340a058d8789fa92e5387b46356e59/files/sp24/Ling2006_Semantics_outline_2nd%20term%20of%2023-24.pdf)
+* [Syllabus](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp24/Ling2006_Semantics_outline_2nd%20term%20of%2023-24.pdf)
 
 ### Assessment Scheme
 * Homework assignments (45%): There will be a total of 3 take-home written homework assignments (15% each). 20% of your raw score will be taken off for each day overdue.
