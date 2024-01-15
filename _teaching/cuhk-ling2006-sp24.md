@@ -10,7 +10,7 @@ location: "Hong Kong"
 
 ### Meeting Time and Location
 * Lecture: Friday 9:30-11:15, Lee Shau Kee Building 306
-* Tutorial: Wednesday 9:30-10:15, TBD
+* Tutorial: Wednesday 9:30-10:15, Li Dak Sum Building 218
 
 ### Teaching Staff 
 * Instructor: Dr. Zhuo Chen
