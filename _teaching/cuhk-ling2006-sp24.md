@@ -34,7 +34,7 @@ location: "Hong Kong"
 | **Week** | **Lecture** | **Topic** | **Tutorial** | **Readings** | **Materials** | **Events** |
 |----------|----------|-----------|--------------|--------------|---------------|------------|
 | 1 | Jan 12 | Introduction | N/A | Saeed2016, pp. 1-17 |  |  |
-| 2 | Jan 19 | Meaning, denotation, reference | Jan 17 | Saeed2016, pp. 1-17, 22-29 |  |  |
+| 2 | Jan 19 | Meaning, denotation, reference | Jan 17 | Saeed2016, pp. 1-17, 22-29 | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp24/ling2006_sp24_w2_tut_s.pdf) |  |
 | 3 | Jan 26 | Lexical meaning I: Ambiguity, vagueness, indeterminacy | Jan 24 | Saeed2016, pp. 51-67, 69-75 |  |  |
 | 4 | Feb 2 | Lexical meaning II: Lexical sense relations | Jan 31 | Saeed2016, pp. 51-67, 69-75 |  |  |
 | 5 | **N/A** | **No class: Lunar New Year** | **Feb 7** |  |  |  |
