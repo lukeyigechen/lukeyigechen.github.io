@@ -36,7 +36,7 @@ location: "Hong Kong"
 | 1 | Jan 12 | Introduction | N/A | Saeed2016, pp. 1-17 |  |  |
 | 2 | Jan 19 | Meaning, denotation, reference | Jan 17 | Saeed2016, pp. 1-17, 22-29 | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp24/ling2006_sp24_w2_tut_s.pdf) |  |
 | 3 | Jan 26 | Lexical meaning I: Ambiguity, vagueness, indeterminacy | Jan 24 | Saeed2016, pp. 51-67, 69-75 |  |  |
-| 4 | Feb 2 | Lexical meaning II: Lexical sense relations | Jan 31 | Saeed2016, pp. 51-67, 69-75 |  |  |
+| 4 | Feb 2 | Lexical meaning II: Lexical sense relations | Jan 31 | Saeed2016, pp. 51-67, 69-75 | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp24/ling2006_sp24_w4_tut_s.pdf) |  |
 | 5 | **N/A** | **No class: Lunar New Year** | **Feb 7** |  |  |  |
 | 6 | Feb 16 | Thematic relations I: Theta-roles and participants | **N/A** | Saeed2016, pp. 149-156 |  |  |
 | 7 | Feb 23 | Thematic relations II: Grammatical relations and theta-roles | Feb 21 | Saeed2016, pp. 155-164 |  |  |
