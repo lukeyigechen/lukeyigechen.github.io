@@ -39,7 +39,7 @@ location: "Hong Kong"
 | 4 | Feb 2 | Lexical meaning II: Lexical sense relations | Jan 31 | Saeed2016, pp. 51-67, 69-75 | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp24/ling2006_sp24_w4_tut_s.pdf) |  |
 | 5 | **N/A** | **No class: Lunar New Year** | **Feb 7** |  | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp24/ling2006_sp24_w5_tut_s.pdf) |  |
 | 6 | Feb 16 | Thematic relations I: Theta-roles and participants | **N/A** | Saeed2016, pp. 149-156 |  |  |
-| 7 | Feb 23 | Thematic relations II: Grammatical relations and theta-roles | Feb 21 | Saeed2016, pp. 155-164 |  |  |
+| 7 | Feb 23 | Thematic relations II: Grammatical relations and theta-roles | Feb 21 | Saeed2016, pp. 155-164 | [\[Flowchart for Ambiguity, Vagueness & Indeterminacy\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp24/ling2006-ambiguity-vagueness-indeterminacy-flowchart.pdf) |  |
 | 8 | Mar 1 | **Midterm** | Feb 28 |  |  | **Midterm: In class** |
 | 9 | **N/A** | **No class: Reading week** | **N/A** |  |  |  |
 | 10 | Mar 15 | Sentence semantics I: Truth | Mar 13 | Saeed2016, pp. 84-91 |  |  |
