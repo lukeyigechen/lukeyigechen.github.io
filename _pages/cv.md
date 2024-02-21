@@ -23,8 +23,10 @@ Natural Language Processing, Computational Linguistics, Information Extraction (
 
 ## Publications
 
-* **Yige Chen**, KyungTae Lim, and Jungyeul Park. Korean Named Entity Recognition Based on Language-Specific Features. *Natural Language Engineering*. 2023.
-* **Yige Chen**, Eunkyul Leah Jo, Yundong Yao, KyungTae Lim, Miikka Silfverberg, Francis Tyers, and Jungyeul Park. Yet Another Format of Universal Dependencies for Korean. In *Proceedings of the 29th International Conference on Computational Linguistics (COLING)*. 2022. 
+* Yige Chen, KyungTae Lim, and Jungyeul Park. A Linguistically-Informed Annotation Strategy for Korean Semantic Role Labeling. To appear in *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*. 2024.
+* Yige Chen, Jae Ihn, KyungTae Lim, and Jungyeul Park. Towards Standardized Annotation and Parsing for Korean FrameNet. To appear in *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*. 2024. 
+* Yige Chen, KyungTae Lim, and Jungyeul Park. Korean Named Entity Recognition Based on Language-Specific Features. *Natural Language Engineering*. 2023.
+* Yige Chen, Eunkyul Leah Jo, Yundong Yao, KyungTae Lim, Miikka Silfverberg, Francis Tyers, and Jungyeul Park. Yet Another Format of Universal Dependencies for Korean. In *Proceedings of the 29th International Conference on Computational Linguistics (COLING)*. 2022. 
 
 ## Awards and Honors 
 
