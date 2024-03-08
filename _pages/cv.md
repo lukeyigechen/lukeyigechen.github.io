@@ -64,6 +64,9 @@ Natural Language Processing, Computational Linguistics, Information Extraction (
   * Greater University Tutoring Services (GUTS), University of Wisconsin–Madison
   * Language: Mandarin Chinese
 
+## Academic Service
+* Reviewer: *Generative Linguistics in the Old World in Asia, Annual Conference of the International Association of Chinese Linguistics*
+
 ## Skills
 
 * *Operating Systems*: Windows, Linux, macOS
