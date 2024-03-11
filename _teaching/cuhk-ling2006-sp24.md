@@ -42,7 +42,7 @@ location: "Hong Kong"
 | 7 | Feb 23 | Thematic relations II: Grammatical relations and theta-roles | Feb 21 | Saeed2016, pp. 155-164 | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp24/ling2006_sp24_w7_tut_s.pdf) [\[Flowchart for Ambiguity, Vagueness & Indeterminacy\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp24/ling2006-ambiguity-vagueness-indeterminacy-flowchart.pdf) | **HW1 due 11:59pm, Feb 24** |
 | 8 | Mar 1 | **Midterm** | Feb 28 |  |  | **Midterm: In class** |
 | 9 | **N/A** | **No class: Reading week** | **N/A** |  |  |  |
-| 10 | Mar 15 | Sentence semantics I: Truth | Mar 13 | Saeed2016, pp. 84-91 |  |  |
+| 10 | Mar 15 | Sentence semantics I: Truth | **N/A** | Saeed2016, pp. 84-91 |  |  |
 | 11 | Mar 22 | Sentence semantics II: Entailment, presupposition | Mar 20 | Saeed2016, pp. 94-105 |  |  |
 | 12 | **N/A** | **No class: Good Friday** | **Mar 27** |  |  |  |
 | 13 | Apr 5 | Conversational implicature and Grice’s maxims of conversation | Apr 3 | Saeed2016, pp. 210-217 |  |  |
