@@ -54,9 +54,10 @@ Natural Language Processing, Computational Linguistics, Information Extraction (
 
 ## Teaching Experience
 
-* Teaching Assistant (September 2022 – Present)
+* Teaching Assistant (September 2022 – April 2024)
   * The Chinese University of Hong Kong
   * Courses: 
+    * LING2006 Semantics (Spring 2024)
     * LING2005 Syntax I (Fall 2023, Spring 2023)
     * LING3204 Second Language Acquisition (Fall 2022) 
 
