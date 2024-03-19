@@ -33,9 +33,8 @@ author_profile: true
 
 * Treebank construction for Wu Chinese (with Haihua Pan)
 * Financial forecasting using language models (with Yi Yang)
-* Foreign languages and decision-making (with Keehyung Kim)
+* Machine translation on online users' cognitive reactions (with Keehyung Kim)
 * Identification of complements and adjuncts in Korean (with Kyuwon Kim, and Jungyeul Park)
 * Autoregressive language models and language acquisition (with Zebo Xu, Zhuang Qiu, Haihua Pan, and Zhenguang G. Cai)
-* Back-translation with decoder-only transformer models (with Yumeng Lin, Xufeng Duan, and Zhenguang G. Cai)
 * Improving window attention with dependency parsing (with Xufeng Duan, Shixuan Li, Haihua Pan, and Zhenguang G. Cai)
 * Digital humanities for Western sinology (with Stuart McManus, Lawrence Cheung, etc.)
