@@ -40,10 +40,10 @@ location: "Hong Kong"
 | 5 | **N/A** | **No class: Lunar New Year** | **Feb 7** |  | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp24/ling2006_sp24_w5_tut_s.pdf) |  |
 | 6 | Feb 16 | Thematic relations I: Theta-roles and participants | **N/A** | Saeed2016, pp. 149-156 |  |  |
 | 7 | Feb 23 | Thematic relations II: Grammatical relations and theta-roles | Feb 21 | Saeed2016, pp. 155-164 | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp24/ling2006_sp24_w7_tut_s.pdf) [\[Flowchart for Ambiguity, Vagueness & Indeterminacy\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp24/ling2006-ambiguity-vagueness-indeterminacy-flowchart.pdf) | **HW1 due 11:59pm, Feb 24** |
-| 8 | Mar 1 | **Midterm** | Feb 28 |  |  | **Midterm: In class** |
+| 8 | Mar 1 | **Midterm** | Feb 28 |  | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp24/ling2006_sp24_w8_tut_s.pdf) | **Midterm: In class** |
 | 9 | **N/A** | **No class: Reading week** | **N/A** |  |  |  |
 | 10 | Mar 15 | Sentence semantics I: Truth | **N/A** | Saeed2016, pp. 84-91 |  |  |
-| 11 | Mar 22 | Sentence semantics II: Entailment, presupposition | Mar 20 | Saeed2016, pp. 94-105 |  |  |
+| 11 | Mar 22 | Sentence semantics II: Entailment, presupposition | Mar 20 | Saeed2016, pp. 94-105 | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp24/ling2006_sp24_w11_tut_s.pdf) |  |
 | 12 | **N/A** | **No class: Good Friday** | **Mar 27** |  |  |  |
 | 13 | Apr 5 | Conversational implicature and Grice’s maxims of conversation | Apr 3 | Saeed2016, pp. 210-217 |  |  |
 | 14 | Apr 12 | Speech acts I: Performatives | Apr 10 | Saeed2016, pp. 229-237 |  |  |
