@@ -12,9 +12,13 @@ redirect_from:
 ## Education
 
 * Ph.D., Linguistics, Chinese University of Hong Kong, 2026 (expected)
+  * Supervisor: Prof. Haihua Pan
 * M.S., Computational Linguistics, University of Washington, 2022
+  * Advisor: Prof. Fei Xia; Grade: 4.00/4.00
 * M.Phil., Theoretical and Applied Linguistics, University of Cambridge, 2021
+  * Supervisor: Prof. Nigel Collier; Grade: Distinction
 * B.S., Economics, Linguistics, Mathematics, Asian Studies, University of Wisconsin–Madison, 2020
+  * Grade: 3.97/4.00; Graduated with Distinction
 * Certificate, Computer Sciences, University of Wisconsin–Madison, 2020
 
 ## Research Interests
