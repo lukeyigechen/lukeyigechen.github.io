@@ -65,7 +65,12 @@ Natural Language Processing, Computational Linguistics, Information Extraction (
   * Greater University Tutoring Services (GUTS), University of Wisconsin–Madison
   * Language: Mandarin Chinese
 
+## Talks
+
+* **Yige Chen**. Understanding the Semantic Representation of Korean Mixed Script in Language Models. To be presented at the 30th Annual Conference of the International Association of Chinese Linguistics (IACL-30). Yonsei University, Seoul, South Korea. 2024.
+
 ## Academic Service
+
 * Reviewer: *Generative Linguistics in the Old World in Asia, Annual Conference of the International Association of Chinese Linguistics*
 
 ## Skills
