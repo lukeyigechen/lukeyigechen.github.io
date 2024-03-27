@@ -41,4 +41,5 @@ author_profile: true
 * Identification of complements and adjuncts in Korean (with Kyuwon Kim, and Jungyeul Park)
 * Autoregressive language models and language acquisition (with Zebo Xu, Zhuang Qiu, Haihua Pan, and Zhenguang G. Cai)
 * Improving window attention with dependency parsing (with Xufeng Duan, Shixuan Li, Haihua Pan, and Zhenguang G. Cai)
+* Back-translation with decoder-only transformer models (with Yumeng Lin, Xufeng Duan, and Zhenguang G. Cai)
 * Digital humanities for Western sinology (with Stuart McManus, Lawrence Cheung, etc.)
