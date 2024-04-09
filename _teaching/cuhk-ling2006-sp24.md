@@ -45,7 +45,7 @@ location: "Hong Kong"
 | 10 | Mar 15 | Sentence semantics I: Truth | **N/A** | Saeed2016, pp. 84-91 |  |  |
 | 11 | Mar 22 | Sentence semantics II: Entailment, presupposition | Mar 20 | Saeed2016, pp. 94-105 | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp24/ling2006_sp24_w11_tut_s.pdf) |  |
 | 12 | **N/A** | **No class: Good Friday** | **Mar 27** |  | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp24/ling2006_sp24_w12_tut_s.pdf) |  |
-| 13 | Apr 5 | Conversational implicature and Grice’s maxims of conversation | Apr 3 | Saeed2016, pp. 210-217 |  | **HW2 due 11:59pm, Apr 3** |
+| 13 | Apr 5 | Conversational implicature and Grice’s maxims of conversation | **N/A** | Saeed2016, pp. 210-217 |  | **HW2 due 11:59pm, Apr 3** |
 | 14 | Apr 12 | Speech acts I: Performatives | Apr 10 | Saeed2016, pp. 229-237 |  |  |
 | 15 | Apr 19 | Speech acts II: (In)direct speech acts | Apr 17 | Saeed2016, pp. 237-247 |  |  |
 | 16 | Apr 22 | **Make-up class (9:30-11:15am, location TBA)** | **N/A** |  |  | **Final exam: Apr 23 4-6pm, location TBA** |
