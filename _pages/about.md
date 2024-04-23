@@ -25,4 +25,4 @@ I was a research assistant for Prof. [Yi Yang](https://isom.hkust.edu.hk/faculty
 
 I was a visiting student at the [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) during Spring 2023. 
 
-I was born and raised in Ningbo, China, and am a native speaker of Wu Chinese. I also speak English, Mandarin Chinese, and Korean. My secondary education was completed at Zhenhai High School. 
+I was born and raised in Ningbo, China, and am a native speaker of Wu Chinese. I also speak English, Mandarin Chinese, and Korean. My secondary education was completed at [Zhenhai High School](http://zhzx.net.cn/). 
