@@ -23,7 +23,7 @@ redirect_from:
 
 ## Research Interests
 
-Natural Language Processing, Computational Linguistics, Information Extraction (esp. in Economics and Finance), Information Systems, Machine Learning, Syntax, Phonology, <!--Economics of Language -->Behavioral Economics
+Natural Language Processing, Computational Linguistics, Machine Learning, Information Extraction<!-- (esp. in Economics and Finance)-->, Transfer Learning, Information Systems, Syntax, <!--Phonology, Economics of Language -->Behavioral Economics
 
 ## Publications
 
