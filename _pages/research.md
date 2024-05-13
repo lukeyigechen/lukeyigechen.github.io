@@ -36,7 +36,6 @@ author_profile: true
 ## In Preparation
 
 * Treebank construction for Wu Chinese (with Haihua Pan)
-<!--* Financial forecasting using language models (with Yi Yang)-->
 * Machine translation on online users' cognitive reactions (with Keehyung Kim)
 * Identification of complements and adjuncts in Korean (with Kyuwon Kim, and Jungyeul Park)
 * Autoregressive language models and language acquisition (with Zebo Xu, Zhuang Qiu, Haihua Pan, and Zhenguang G. Cai)
