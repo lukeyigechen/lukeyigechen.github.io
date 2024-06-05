@@ -25,7 +25,7 @@ author_profile: true
 ## Talks
 
 * **Yige Chen**. Understanding the Semantic Representation of Korean Mixed Script in Language Models. Presented at the 30th Annual Conference of the International Association of Chinese Linguistics (IACL-30). Yonsei University, Seoul, South Korea. 2024.
-* **Yige Chen**. Developing Resources and Tools for Enhanced Korean Language Processing. To be delivered at the Multimodal Language Processing Lab, Seoul National University of Science and Technology, Seoul, South Korea. 2024.
+* **Yige Chen**. Developing Resources and Tools for Enhanced Korean Language Processing. Delivered at the Multimodal Language Processing Lab, Seoul National University of Science and Technology, Seoul, South Korea. 2024.
 
 ## Working Papers
 
@@ -38,8 +38,12 @@ author_profile: true
 
 * Treebank construction for Wu Chinese (with Haihua Pan)
 * Machine translation on online users' cognitive reactions (with Keehyung Kim)
-* Identification of complements and adjuncts in Korean (with Kyuwon Kim, and Jungyeul Park)
+* Identification of complements and adjuncts in Korean (with Kyuwon Kim, KyungTae Lim, Jungyeul Park, and Chulwoo Park)
+* Multiword expressions in Universal Dependencies (with Danny Yu, Sara Mirjalili, Jungyeul Park, etc.)
+* Linearization of dependency trees for parsing (with Sophia Schwandt, Jungyeul Park, etc.)
 * Autoregressive language models and language acquisition (with Zebo Xu, Zhuang Qiu, Haihua Pan, and Zhenguang G. Cai)
 * Improving window attention with dependency parsing (with Xufeng Duan, Shixuan Li, Haihua Pan, and Zhenguang G. Cai)
 * Back-translation with decoder-only transformer models (with Yumeng Lin, Xufeng Duan, and Zhenguang G. Cai)
+* Machine learning for Mandarin-speaking preschoolers with autism spectrum disorder (with Yue Chen, and Ziyin Mai)
 * Digital humanities for Western sinology (with Stuart McManus, Lawrence Cheung, etc.)
+* Detection of AI-generated texts using linguistic cues (with Zeyao Qi, Thomas Lee, etc.)
