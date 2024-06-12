@@ -72,7 +72,7 @@ Natural Language Processing, Computational Linguistics, Machine Learning, Inform
 ## Talks
 
 * Yige Chen. Understanding the Semantic Representation of Korean Mixed Script in Language Models. Presented at the 30th Annual Conference of the International Association of Chinese Linguistics (IACL-30). Yonsei University, Seoul, South Korea. 2024.
-* Yige Chen. Developing Resources and Tools for Enhanced Korean Language Processing. To be delivered at the Multimodal Language Processing Lab, Seoul National University of Science and Technology, Seoul, South Korea. 2024.
+* Yige Chen. Developing Resources and Tools for Enhanced Korean Language Processing. Delivered at the Multimodal Language Processing Lab, Seoul National University of Science and Technology, Seoul, South Korea. 2024.
 
 ## Academic Service
 
