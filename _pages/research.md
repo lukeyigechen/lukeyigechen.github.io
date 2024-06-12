@@ -40,7 +40,6 @@ author_profile: true
 * Machine translation on online users' cognitive reactions (with Keehyung Kim)
 * Identification of complements and adjuncts in Korean (with Kyuwon Kim, KyungTae Lim, Jungyeul Park, and Chulwoo Park)
 * Multiword expressions in Universal Dependencies (with Danny Yu, Sara Mirjalili, Jungyeul Park, etc.)
-* Linearization of dependency trees for parsing (with Sophia Schwandt, Jungyeul Park, etc.)
 * Autoregressive language models and language acquisition (with Zebo Xu, Zhuang Qiu, Haihua Pan, and Zhenguang G. Cai)
 * Improving window attention with dependency parsing (with Xufeng Duan, Shixuan Li, Haihua Pan, and Zhenguang G. Cai)
 * Back-translation with decoder-only transformer models (with Yumeng Lin, Xufeng Duan, and Zhenguang G. Cai)
