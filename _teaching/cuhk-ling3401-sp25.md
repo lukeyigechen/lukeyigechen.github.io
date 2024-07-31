@@ -16,7 +16,7 @@ location: "Hong Kong"
 * Instructor: Prof. Gangyi Feng
   * Email: [g.feng\[at\]cuhk.edu.hk](mailto:g.feng@cuhk.edu.hk) 
   * Office hours: TBA 
-* Teaching assistant: Yige Chen
+* Teaching Assistant: Yige Chen
   * Email: [yigechen\[at\]link.cuhk.edu.hk](mailto:yigechen@link.cuhk.edu.hk) 
   * Office hours: TBA 
 
