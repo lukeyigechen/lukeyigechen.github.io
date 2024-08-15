@@ -17,7 +17,7 @@ I explore the boundary between economics and linguistics using computational and
 * Information extraction in the economic, financial and business domains
 * Incorporating linguistic knowledge into language models and NLP tasks
 * The effects of languages and NLP techniques on economic decision-making
-* Language model interplay: collaboration and competition
+* The interplay of conversational agents: collaboration and competition
 
 I received an M.S. in [Computational Linguistics](https://www.compling.uw.edu/) from the [Department of Linguistics](https://linguistics.washington.edu/), [University of Washington](https://www.washington.edu/) (advised by Prof. [Fei Xia](https://linguistics.washington.edu/people/fei-xia)), an M.Phil. in [Theoretical and Applied Linguistics](https://www.mmll.cam.ac.uk/dtal) from the [University of Cambridge](https://www.cam.ac.uk/) (supervised by Prof. [Nigel Collier](https://www.mmll.cam.ac.uk/nhc30)), and a B.S. in [Economics](https://econ.wisc.edu/), [Linguistics](https://langsci.wisc.edu/), [Mathematics](https://math.wisc.edu/), and [Asian Studies](https://eastasia.wisc.edu/) with a Certificate in [Computer Sciences](https://www.cs.wisc.edu/) from the [University of Wisconsin-Madison](https://www.wisc.edu/). Prior to that, I spent 2 years studying [Hospitality Management](http://www2.scut.edu.cn/tourism/) and [Industrial Design](http://www2.scut.edu.cn/design/) at the [South China University of Technology](https://www.scut.edu.cn/new/) as an undergraduate student. 
 
