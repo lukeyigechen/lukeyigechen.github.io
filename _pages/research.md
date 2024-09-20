@@ -17,6 +17,7 @@ author_profile: true
 
 ## Publications
 
+* **Yige Chen**, Kyuwon Kim, KyungTae Lim, Jungyeul Park, and Chulwoo Park. When the Misidentified Adverbial Phrase Functions as a Complement. To appear in *Findings of the Association for Computational Linguistics: EMNLP 2024*. 2024.
 * **Yige Chen**, KyungTae Lim, and Jungyeul Park. A Linguistically-Informed Annotation Strategy for Korean Semantic Role Labeling. In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*. 2024.
 * **Yige Chen**, Jae Ihn, KyungTae Lim, and Jungyeul Park. Towards Standardized Annotation and Parsing for Korean FrameNet. In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*. 2024. 
 * **Yige Chen**\*, KyungTae Lim\*, and Jungyeul Park. Korean Named Entity Recognition Based on Language-Specific Features. *Natural Language Engineering*. 2023.
@@ -29,8 +30,6 @@ author_profile: true
 
 ## Working Papers
 
-<!--* Korean FrameNet parsing using linguistic properties (with Jae Ihn, KyungTae Lim, and Jungyeul Park)
-* Linguistic methodologies for Korean semantic role labeling (with KyungTae Lim, and Jungyeul Park)-->
 * Revising Universal Dependencies for Korean (with Kyuwon Kim, Eunkyul Leah Jo, KyungTae Lim, Jungyeul Park, and Chulwoo Park)
 * Verb lexicon in the Sejong dictionary (with Eunkyul Leah Jo, Kyuwon Kim, KyungTae Lim, Jungyeul Park, and Chulwoo Park)
 
@@ -38,12 +37,10 @@ author_profile: true
 
 * Treebank construction for Wu Chinese (with Haihua Pan)
 * Machine translation on online users' cognitive reactions (with Keehyung Kim)
-* Identification of complements and adjuncts in Korean (with Kyuwon Kim, KyungTae Lim, Jungyeul Park, and Chulwoo Park)
 * Multiword expressions in Universal Dependencies (with Danny Yu, Sara Mirjalili, Jungyeul Park, etc.)
 * Investigating adnominal endings in Korean (with Jungyeul Park and Chulwoo Park)
-* Linearization of dependency trees for parsing (with Sophia Schwandt, Jungyeul Park, etc.)
+* Linearization of dependency trees for parsing (with Jungyeul Park)
 * Autoregressive language models and language acquisition (with Zebo Xu, Zhuang Qiu, Haihua Pan, and Zhenguang G. Cai)
-* Improving window attention with dependency parsing (with Xufeng Duan, Shixuan Li, Haihua Pan, and Zhenguang G. Cai)
 * Back-translation with decoder-only transformer models (with Yumeng Lin, Xufeng Duan, and Zhenguang G. Cai)
 * Machine learning for Mandarin-speaking preschoolers with autism spectrum disorder (with Yue Chen, and Ziyin Mai)
 * Digital humanities for Western sinology (with Pak Kin Lau, Zhongyang Yu, Lawrence Cheung, Stuart McManus, etc.)
