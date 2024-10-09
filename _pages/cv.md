@@ -59,7 +59,7 @@ Natural Language Processing, Computational Linguistics, Machine Learning, Conver
 
 ## Teaching Experience
 
-* Teaching Assistant (September 2022 – April 2024)
+* Teaching Assistant (September 2022 – Present)
   * The Chinese University of Hong Kong
   * Courses: 
     * LING2006 Semantics (Spring 2024)
