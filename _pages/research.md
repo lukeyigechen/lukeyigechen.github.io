@@ -30,11 +30,11 @@ author_profile: true
 
 ## Working Papers
 
+* Unlocking Korean Verbs: A User-Friendly Exploration into the Verb Lexicon (with Seohyun Song, Eunkyul Leah Jo, Jeen-Pyo Hong, Kyuwon Kim, Jin Wee, Miyoung Kang, KyungTae Lim, Jungyeul Park, and Chulwoo Park)
+
+<!--## In Preparation
+
 * Revising Universal Dependencies for Korean (with Kyuwon Kim, Eunkyul Leah Jo, KyungTae Lim, Jungyeul Park, and Chulwoo Park)
-* Verb lexicon in the Sejong dictionary (with Eunkyul Leah Jo, Kyuwon Kim, KyungTae Lim, Jungyeul Park, and Chulwoo Park)
-
-## In Preparation
-
 * Treebank construction for Wu Chinese (with Haihua Pan)
 * Machine translation on online users' cognitive reactions (with Keehyung Kim)
 * Multiword expressions in Universal Dependencies (with Danny Yu, Sara Mirjalili, Jungyeul Park, etc.)
@@ -44,4 +44,4 @@ author_profile: true
 * Back-translation with decoder-only transformer models (with Yumeng Lin, Xufeng Duan, and Zhenguang G. Cai)
 * Machine learning for Mandarin-speaking preschoolers with autism spectrum disorder (with Yue Chen, and Ziyin Mai)
 * Digital humanities for Western sinology (with Pak Kin Lau, Zhongyang Yu, Lawrence Cheung, Stuart McManus, etc.)
-* Detection of AI-generated texts using linguistic cues (with Zeyao Qi, Thomas Lee, etc.)
+* Detection of AI-generated texts using linguistic cues (with Zeyao Qi, Thomas Lee, etc.)-->
