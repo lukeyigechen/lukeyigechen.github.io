@@ -84,4 +84,4 @@ Natural Language Processing, Computational Linguistics, Machine Learning, Conver
 * *Operating Systems*: Windows, Linux, macOS
 * *Programming*: Java, Python (NumPy, pandas, PyTorch, Transformers), MATLAB, Visual Basic, STATA, R, SQL, MongoDB
 * *Software*: Microsoft Office (Word, Excel, PowerPoint), LaTeX, Maple, Praat, E-Prime, Adobe Photoshop, Adobe Audition
-* *Languages*: Wu Chinese (native), Mandarin Chinese and English (fluent), Korean (intermediate), Japanese, Spanish and Cantonese (basic), Classical Chinese (fluent in written language)
+* *Languages*: Wu Chinese (native), English and Mandarin Chinese (fluent), Korean (intermediate), Japanese, Spanish and Cantonese (basic), Classical Chinese (fluent in written language)
