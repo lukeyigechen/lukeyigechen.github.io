@@ -23,7 +23,7 @@ redirect_from:
 
 ## Research Interests
 
-Natural Language Processing, Computational Linguistics, Machine Learning, Conversational Agents, Information Extraction<!-- (esp. in Economics and Finance)-->, Transfer Learning, Information Systems, Syntax, <!--Phonology, Economics of Language -->Behavioral Economics
+Natural Language Processing, Computational Linguistics, Machine Learning, Conversational Agents, Information Extraction<!-- (esp. in Economics and Finance)-->, Transfer Learning, Information Systems, Syntax, Semantics, <!--Phonology, Economics of Language -->Behavioral Economics
 
 ## Publications
 
@@ -91,5 +91,5 @@ Natural Language Processing, Computational Linguistics, Machine Learning, Conver
 
 * *Operating Systems*: Windows, Linux, macOS
 * *Programming*: Java, Python (NumPy, pandas, PyTorch, Transformers), MATLAB, Visual Basic, STATA, R, SQL, MongoDB
-* *Software*: Microsoft Office (Word, Excel, PowerPoint), LaTeX, Maple, Praat, E-Prime, Adobe Photoshop, Adobe Audition
+* *Software and Tools*: Microsoft Office (Word, Excel, PowerPoint), LaTeX, Maple, Praat, E-Prime, Adobe Photoshop, Adobe Audition
 * *Languages*: Wu Chinese (native), English and Mandarin Chinese (fluent), Korean (intermediate), Japanese, Spanish and Cantonese (basic), Classical Chinese (fluent in written language)
