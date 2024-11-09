@@ -17,7 +17,7 @@ author_profile: true
 
 ## Publications
 
-* **Yige Chen**, Kyuwon Kim, KyungTae Lim, Jungyeul Park, and Chulwoo Park. When the Misidentified Adverbial Phrase Functions as a Complement. To appear in *Findings of the Association for Computational Linguistics: EMNLP 2024*. 2024.
+* **Yige Chen**, Kyuwon Kim, KyungTae Lim, Jungyeul Park, and Chulwoo Park. When the Misidentified Adverbial Phrase Functions as a Complement. In *Findings of the Association for Computational Linguistics: EMNLP 2024*. 2024.
 * **Yige Chen**, KyungTae Lim, and Jungyeul Park. A Linguistically-Informed Annotation Strategy for Korean Semantic Role Labeling. In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*. 2024.
 * **Yige Chen**, Jae Ihn, KyungTae Lim, and Jungyeul Park. Towards Standardized Annotation and Parsing for Korean FrameNet. In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*. 2024. 
 * **Yige Chen**\*, KyungTae Lim\*, and Jungyeul Park. Korean Named Entity Recognition Based on Language-Specific Features. *Natural Language Engineering*. 2023.
@@ -25,6 +25,7 @@ author_profile: true
 
 ## Talks
 
+* Yue Chen, Ziyin Mai, and **Yige Chen**. Employing Machine Learning and Language Models to Differentiate Language Patterns in Mandarin-Speaking Preschoolers with Autism Spectrum Disorder. Poster presented at the Seventh Installment of California Meeting on Psycholinguistics (CAMP\[7\]). University of California San Diego, San Diego, CA, United States. 2024.
 * **Yige Chen**. Understanding the Semantic Representation of Korean Mixed Script in Language Models. Presented at the 30th Annual Conference of the International Association of Chinese Linguistics (IACL-30). Yonsei University, Seoul, South Korea. 2024.
 * **Yige Chen**. Developing Resources and Tools for Enhanced Korean Language Processing. Delivered at the Multimodal Language Processing Lab, Seoul National University of Science and Technology, Seoul, South Korea. 2024.
 
