@@ -90,6 +90,6 @@ Natural Language Processing, Computational Linguistics, Machine Learning, Conver
 ## Skills
 
 * *Operating Systems*: Windows, Linux, macOS
-* *Programming*: Java, Python (NumPy, pandas, PyTorch, Transformers), MATLAB, Visual Basic, STATA, R, SQL, MongoDB
-* *Software and Tools*: Microsoft Office (Word, Excel, PowerPoint), LaTeX, Maple, Praat, E-Prime, Adobe Photoshop, Adobe Audition
+* *Programming*: Java, Python (NumPy, pandas, PyTorch, Transformers), MATLAB, Visual Basic, R, SQL
+* *Software and Tools*: STATA, MongoDB, LaTeX, Maple, Microsoft Office (Word, Excel, PowerPoint), Praat, E-Prime, Adobe Photoshop, Adobe Audition
 * *Languages*: Wu Chinese (native), English and Mandarin Chinese (fluent), Korean (intermediate), Japanese, Spanish and Cantonese (basic), Classical Chinese (fluent in written language)
