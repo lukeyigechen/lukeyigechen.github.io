@@ -32,6 +32,7 @@ author_profile: true
 ## Working Papers
 
 * Unlocking Korean Verbs: A User-Friendly Exploration into the Verb Lexicon (with Seohyun Song, Eunkyul Leah Jo, Jeen-Pyo Hong, Kyuwon Kim, Jin Wee, Miyoung Kang, KyungTae Lim, Jungyeul Park, and Chulwoo Park)
+* K-UD: Revising Korean Universal Dependencies Guidelines (with Kyuwon Kim, Eunkyul Leah Jo, KyungTae Lim, Jungyeul Park, and Chulwoo Park)
 
 <!--## In Preparation
 
