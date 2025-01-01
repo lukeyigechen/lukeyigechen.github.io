@@ -15,9 +15,9 @@ location: "Hong Kong"
 ### Teaching staff 
 * Instructor: Prof. Gangyi Feng
   * Email: [g.feng\[at\]cuhk.edu.hk](mailto:g.feng@cuhk.edu.hk) 
-  * Office hours: TBA 
+  * Office hours: Thursday 15:30-17:00 or by appointment, at G09 Leung Kau Kui Building or 401 Hui Yeung Shing Building 
 * Teaching Assistant: Yige Chen
   * Email: [yigechen\[at\]link.cuhk.edu.hk](mailto:yigechen@link.cuhk.edu.hk) 
-  * Office hours: TBA 
+  * Office hours: Tuesday 12:00-14:00, at G19 Leung Kau Kui Building  
 
 Information and materials for the course will be posted soon. 
