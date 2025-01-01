@@ -20,4 +20,43 @@ location: "Hong Kong"
   * Email: [yigechen\[at\]link.cuhk.edu.hk](mailto:yigechen@link.cuhk.edu.hk) 
   * Office hours: Tuesday 12:00-14:00, at G19 Leung Kau Kui Building  
 
-Information and materials for the course will be posted soon. 
+### Course Syllabus
+* To be posted soon
+
+### Course Schedule
+* Please note that the course schedule below is subject to change
+
+| **Week** | **Date** | **Lecture** | **Tutorial** | **Materials** | **Events** |
+|----------|----------|-------------|--------------|---------------|------------|
+| 1 | Jan 8 | Introduction to Linguistics & IT | Introducing NLP tasks and applications | [![Week 1 notebook][]]([https://colab.research.google.com/your-notebook-link](https://colab.research.google.com/drive/1r31nS1PryEkQb8StxxbSDN2_D-suBO84?usp=sharing)) |  |
+| 2 | Jan 15 | Language Data and Text Processing | TBD |  |  |
+| 3 | Jan 22 | Basic Text Analysis Methods | TBD |  |  |
+| 4 | **N/A** | **No class: Lunar New Year** | **N/A** |  |  |
+| 5 | Feb 05 | Understanding Language Models | TBD |  |  |
+| 6 | Feb 12 | Word Meaning and Embeddings | TBD |  |  |
+| 7 | Feb 19 | Introduction to Modern NLP Tools | TBD |  |  |
+| 8 | Feb 26 | Large Language Models Fundamentals | **Midterm** |  | **Midterm: In class** |
+| 9 | **N/A** | **No class: Reading week** | **N/A** |  |  |
+| 10 | Mar 12 | Language Generation and Understanding | TBD |  |  |
+| 11 | Mar 19 | Text Classification and Analysis | TBD |  |  |
+| 12 | Mar 26 | Parsing and Structure Analysis | TBD |  |  |
+| 13 | Apr 2 | Information Extraction & Sentiment Analysis | TBD |  |  |
+| 14 | Apr 9 | Applications in Language Technology | TBD |  |  |
+| 15 | Apr 16 | Ethics and Bias in Language Technology | **Final Exam** |  | **Final Exam: In class** |
+
+### Useful Links
+* [Google Colab](https://colab.research.google.com/)
+* [Universal Dependencies](https://universaldependencies.org/)
+* [Hugging Face](https://huggingface.co/)
+* [Poe](https://poe.com/)
+* [Microsoft Azure](https://azure.microsoft.com/)
+* [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
+* [Blackboard](https://blackboard.cuhk.edu.hk/)
+* [University policy on academic honesty](https://www.cuhk.edu.hk/policy/academichonesty/)
+* [Academic accommodations](https://www2.osa.cuhk.edu.hk/sens/en-GB/)
+<!--* [spaCy](https://spacy.io/)
+* [Natural Language Toolkit (NLTK)](https://www.nltk.org/)
+* [Stanza](https://stanfordnlp.github.io/stanza/)-->
+<!--* [OpenAI](https://openai.com/)-->
+
+Detailed information and materials for the course will be posted soon. 
