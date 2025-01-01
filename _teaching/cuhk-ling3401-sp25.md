@@ -28,7 +28,7 @@ location: "Hong Kong"
 
 | **Week** | **Date** | **Lecture** | **Tutorial** | **Materials** | **Events** |
 |----------|----------|-------------|--------------|---------------|------------|
-| 1 | Jan 8 | Introduction to Linguistics & IT | Introducing NLP tasks and applications | [![Week 1 notebook][]]([https://colab.research.google.com/your-notebook-link](https://colab.research.google.com/drive/1r31nS1PryEkQb8StxxbSDN2_D-suBO84?usp=sharing)) |  |
+| 1 | Jan 8 | Introduction to Linguistics & IT | Introducing NLP tasks and applications | [![Week 1 notebook][]](https://colab.research.google.com/drive/1r31nS1PryEkQb8StxxbSDN2_D-suBO84?usp=sharing) |  |
 | 2 | Jan 15 | Language Data and Text Processing | TBD |  |  |
 | 3 | Jan 22 | Basic Text Analysis Methods | TBD |  |  |
 | 4 | **N/A** | **No class: Lunar New Year** | **N/A** |  |  |
