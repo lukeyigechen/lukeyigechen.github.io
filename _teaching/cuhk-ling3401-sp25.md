@@ -54,9 +54,5 @@ location: "Hong Kong"
 * [Blackboard](https://blackboard.cuhk.edu.hk/)
 * [University policy on academic honesty](https://www.cuhk.edu.hk/policy/academichonesty/)
 * [Academic accommodations](https://www2.osa.cuhk.edu.hk/sens/en-GB/)
-<!--* [spaCy](https://spacy.io/)
-* [Natural Language Toolkit (NLTK)](https://www.nltk.org/)
-* [Stanza](https://stanfordnlp.github.io/stanza/)-->
-<!--* [OpenAI](https://openai.com/)-->
 
 Detailed information and materials for the course will be posted soon. 
