@@ -24,11 +24,11 @@ location: "Hong Kong"
 * To be posted soon
 
 ### Course Schedule
-* Please note that the course schedule below is subject to change
+* Please note that the course schedule below may be subject to change
 
 | **Week** | **Date** | **Lecture** | **Tutorial** | **Materials** | **Events** |
 |----------|----------|-------------|--------------|---------------|------------|
-| 1 | Jan 8 | Introduction to Linguistics & IT | Introducing NLP tasks and applications | <a target="_blank" href="https://colab.research.google.com/drive/1r31nS1PryEkQb8StxxbSDN2_D-suBO84?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |  |
+| 1 | Jan 8 | Introduction to Linguistics & IT | Demonstrating NLP tasks and applications | <a target="_blank" href="https://colab.research.google.com/drive/1r31nS1PryEkQb8StxxbSDN2_D-suBO84?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |  |
 | 2 | Jan 15 | Language Data and Text Processing | TBD |  |  |
 | 3 | Jan 22 | Basic Text Analysis Methods | TBD |  |  |
 | 4 | **N/A** | **No class: Lunar New Year** | **N/A** |  |  |
@@ -54,5 +54,3 @@ location: "Hong Kong"
 * [Blackboard](https://blackboard.cuhk.edu.hk/)
 * [University policy on academic honesty](https://www.cuhk.edu.hk/policy/academichonesty/)
 * [Academic accommodations](https://www2.osa.cuhk.edu.hk/sens/en-GB/)
-
-Detailed information and materials for the course will be posted soon. 
