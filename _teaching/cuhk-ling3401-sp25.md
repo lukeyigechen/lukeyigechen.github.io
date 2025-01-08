@@ -29,19 +29,19 @@ location: "Hong Kong"
 | **Week** | **Date** | **Lecture** | **Tutorial** | **Materials** | **Events** |
 |----------|----------|-------------|--------------|---------------|------------|
 | 1 | Jan 8 | Introduction to Linguistics & IT | Demonstrating NLP tasks and applications | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w1_tut_s.pdf) |  |
-| 2 | Jan 15 | Language Data and Text Processing | TBD |  |  |
-| 3 | Jan 22 | Basic Text Analysis Methods | TBD |  |  |
+| 2 | Jan 15 | Language Data and NLP Fundamentals | TBD |  |  |
+| 3 | Jan 22 | Understanding "Simple" Language Modeling | TBD |  |  |
 | 4 | **N/A** | **No class: Lunar New Year** | **N/A** |  |  |
-| 5 | Feb 05 | Understanding Language Models | TBD |  |  |
+| 5 | Feb 05 | Machine Learning Fundamentals | TBD |  |  |
 | 6 | Feb 12 | Word Meaning and Embeddings | TBD |  |  |
-| 7 | Feb 19 | Introduction to Modern NLP Tools | TBD |  |  |
-| 8 | Feb 26 | Large Language Models Fundamentals | **Midterm** |  | **Midterm: In class** |
+| 7 | Feb 19 | Large Language Models | TBD |  |  |
+| 8 | Feb 26 | Parsing and Linguistic Structure Analysis | **Midterm** |  | **Midterm: In class** |
 | 9 | **N/A** | **No class: Reading week** | **N/A** |  |  |
-| 10 | Mar 12 | Language Generation and Understanding | TBD |  |  |
-| 11 | Mar 19 | Text Classification and Analysis | TBD |  |  |
-| 12 | Mar 26 | Parsing and Structure Analysis | TBD |  |  |
-| 13 | Apr 2 | Information Extraction & Sentiment Analysis | TBD |  |  |
-| 14 | Apr 9 | Applications in Language Technology | TBD |  |  |
+| 10 | Mar 12 | Text Classification & Sentiment Analysis | TBD |  |  |
+| 11 | Mar 19 | Information Extraction | TBD |  |  |
+| 12 | Mar 26 | Corpus analysis (Prof. Mai Ziyin’s team) (focus on speech recognition and corpus analysis for language learners and children’s corpus) | TBD |  |  |
+| 13 | Apr 2 | Real-world Applications: building a simultaneous interpreter? | TBD |  |  |
+| 14 | Apr 9 | Real-World Applications: Personal AI Assistants | TBD |  |  |
 | 15 | Apr 16 | Ethics and Bias in Language Technology | **Final Exam** |  | **Final Exam: In class** |
 
 ### Useful Links
