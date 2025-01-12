@@ -29,7 +29,7 @@ location: "Hong Kong"
 | **Week** | **Date** | **Lecture** | **Tutorial** | **Materials** | **Events** |
 |----------|----------|-------------|--------------|---------------|------------|
 | 1 | Jan 8 | Introduction to Linguistics & IT | Demonstrating NLP tasks and applications | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w1_tut_s.pdf) |  |
-| 2 | Jan 15 | Language Data and NLP Fundamentals | TBD |  |  |
+| 2 | Jan 15 | Language Data and NLP Fundamentals | TBD | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w2_tut_s.pdf) and <a target="_blank" href="https://colab.research.google.com/drive/1eeK1j8SNyV4aqGmmR4I1rUi_aEVHl7m0?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>  |  |
 | 3 | Jan 22 | Understanding "Simple" Language Modeling | TBD |  |  |
 | 4 | **N/A** | **No class: Lunar New Year** | **N/A** |  |  |
 | 5 | Feb 05 | Machine Learning Fundamentals | TBD |  |  |
