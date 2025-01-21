@@ -21,7 +21,7 @@ location: "Hong Kong"
   * Office hours: Tuesday 12:00-14:00, at G19 Leung Kau Kui Building  
 
 ### Course Syllabus
-* To be posted soon
+* [Course Syllabus](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/LING3401_course_outline_v2.pdf)
 
 ### Course Schedule
 * Please note that the course schedule below may be subject to change
