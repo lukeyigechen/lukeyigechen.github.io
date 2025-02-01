@@ -84,10 +84,11 @@ Natural Language Processing, Computational Linguistics, Machine Learning, Conver
 
 ## Memberships
 
-* Association for Computational Linguistics (2022, 2024)
+* Association for Computational Linguistics (2022, 2024 - 2025)
+* Linguistic Society of America (2022 - 2023, 2025)
+* American Economic Association (2025)
 * European Language Resources Association (2024)
 * International Association of Chinese Linguistics (2024)
-* Linguistic Society of America (2022 - 2023)
 
 ## Skills
 
