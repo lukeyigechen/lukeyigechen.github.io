@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](/files/cv/Yige-Chen-CV-Nov2024-v1.pdf)
+[Download CV](/files/cv/Yige-Chen-CV-Jan2025-v0.pdf)
 
 ## Education
 
