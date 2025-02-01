@@ -87,6 +87,9 @@ Natural Language Processing, Computational Linguistics, Machine Learning, Conver
 * Association for Computational Linguistics (2022, 2024 - 2025)
 * Linguistic Society of America (2022 - 2023, 2025)
 * American Economic Association (2025)
+* Association for Computing Machinery (2025)
+* American Mathematical Society (2025)
+* Association for Asian Studies (2025)
 * European Language Resources Association (2024)
 * International Association of Chinese Linguistics (2024)
 
