@@ -32,7 +32,7 @@ location: "Hong Kong"
 | 2 | Jan 15 | Language Data and NLP Fundamentals | Tokenization, word frequency analysis, and edit distance | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w2_tut_s.pdf) and <a target="_blank" href="https://colab.research.google.com/drive/1eeK1j8SNyV4aqGmmR4I1rUi_aEVHl7m0?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>  |  |
 | 3 | Jan 22 | Understanding "Simple" Language Modeling | Probability, *n*-gram, and perplexity | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w3_tut_s.pdf) and <a target="_blank" href="https://colab.research.google.com/drive/168Nda6BZownxyUs24Vo2LIPJSnvhPDBg?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |  |
 | 4 | **N/A** | **No class: Lunar New Year** | **N/A** |  |  |
-| 5 | Feb 05 | Machine Learning Fundamentals | TBD |  |  |
+| 5 | Feb 05 | Machine Learning Fundamentals | Machine learning basics | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w5_tut_s.pdf) and <a target="_blank" href="https://colab.research.google.com/drive/1gQalAaCmjqHGgU-1ZBZRBPrjU9Mwpktc?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |  |
 | 6 | Feb 12 | Word Meaning and Embeddings | TBD |  |  |
 | 7 | Feb 19 | Large Language Models | TBD |  |  |
 | 8 | Feb 26 | Parsing and Linguistic Structure Analysis | **Midterm** |  | **Midterm: In class** |
