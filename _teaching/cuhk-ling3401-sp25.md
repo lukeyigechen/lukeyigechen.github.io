@@ -34,8 +34,8 @@ location: "Hong Kong"
 | 4 | **N/A** | **No class: Lunar New Year** | **N/A** |  |  |
 | 5 | Feb 05 | Machine Learning Fundamentals | Machine learning basics | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w5_tut_s.pdf) and <a target="_blank" href="https://colab.research.google.com/drive/1gQalAaCmjqHGgU-1ZBZRBPrjU9Mwpktc?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |  |
 | 6 | Feb 12 | Machine Learning Fundamentals | Machine learning basics II | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w6_tut_s.pdf) and <a target="_blank" href="https://colab.research.google.com/drive/19WavbMGRlGnwXtefdpsC6ONG3kuRXxC1?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |  |
-| 7 | Feb 19 | Word Meaning and Embeddings, and Large Language Models | TBD |  |  |
-| 8 | Feb 26 | Parsing and Linguistic Structure Analysis | **Midterm** |  | **Midterm: In class** |
+| 7 | Feb 19 | Word Meaning and Embeddings | Word meaning and embeddings | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w7_tut_s.pdf) and <a target="_blank" href="https://colab.research.google.com/drive/1La0r5zkbMWZV9uV50T8ue0ePLIX3veL1?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |  |
+| 8 | Feb 26 | Large Language Models, Parsing and Linguistic Structure Analysis | **Midterm** |  | **Midterm: In class** |
 | 9 | **N/A** | **No class: Reading week** | **N/A** |  |  |
 | 10 | Mar 12 | Text Classification & Sentiment Analysis | TBD |  |  |
 | 11 | Mar 19 | Information Extraction | TBD |  |  |
