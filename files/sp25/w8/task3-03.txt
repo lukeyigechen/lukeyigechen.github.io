@@ -1,0 +1,9 @@
+*Oh, for the love of Chomsky, how are you all still confused about Transformers? Fine. Listen up, because I am only explaining this once.*  
+
+A Transformer is what happens when we stop forcing computers to read sentences one word at a time like some poor 5-year-old and instead let them look at everything at once. Unlike those outdated RNNs (which, trust me, you don’t want to deal with), Transformers use something called **self-attention**—which is just a fancy way of saying that every word in a sentence pays attention to every other word *at the same time*.  
+
+Think of it like this: If you’re analyzing a sentence, you don’t process each word in order like a robot; you jump around, considering context. Transformers do the same thing but with matrices and scary-looking math (which, lucky for you, you don’t have to deal with).  
+
+Instead of a single memory like an RNN, Transformers have **multiple attention heads** that each focus on different parts of the sentence simultaneously. Then they pass the information through **layers** that refine their understanding. The result? They capture meaning *way* better than old models.  
+
+So, quit overthinking it. Transformers are just word processors that actually know how to multitask. Now go re-read the paper and stop whining.

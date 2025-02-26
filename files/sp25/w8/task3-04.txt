@@ -1,0 +1,148 @@
+import random
+import time
+from functools import cmp_to_key
+
+# Define multiple sorting algorithms
+
+def bubble_sort(arr):
+    n = len(arr)
+    for i in range(n):
+        for j in range(0, n-i-1):
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+    return arr
+
+def insertion_sort(arr):
+    for i in range(1, len(arr)):
+        key = arr[i]
+        j = i - 1
+        while j >= 0 and key < arr[j]:
+            arr[j + 1] = arr[j]
+            j -= 1
+        arr[j + 1] = key
+    return arr
+
+def merge_sort(arr):
+    if len(arr) > 1:
+        mid = len(arr) // 2
+        L = arr[:mid]
+        R = arr[mid:]
+        merge_sort(L)
+        merge_sort(R)
+        i = j = k = 0
+        while i < len(L) and j < len(R):
+            if L[i] < R[j]:
+                arr[k] = L[i]
+                i += 1
+            else:
+                arr[k] = R[j]
+                j += 1
+            k += 1
+        while i < len(L):
+            arr[k] = L[i]
+            i += 1
+            k += 1
+        while j < len(R):
+            arr[k] = R[j]
+            j += 1
+            k += 1
+    return arr
+
+def quick_sort(arr):
+    if len(arr) <= 1:
+        return arr
+    pivot = arr[len(arr) // 2]
+    left = [x for x in arr if x < pivot]
+    middle = [x for x in arr if x == pivot]
+    right = [x for x in arr if x > pivot]
+    return quick_sort(left) + middle + quick_sort(right)
+
+def selection_sort(arr):
+    for i in range(len(arr)):
+        min_idx = i
+        for j in range(i+1, len(arr)):
+            if arr[j] < arr[min_idx]:
+                min_idx = j
+        arr[i], arr[min_idx] = arr[min_idx], arr[i]
+    return arr
+
+# Comparator function just for fun
+def custom_comparator(x, y):
+    return (x > y) - (x < y)
+
+# Generate a random list of numbers
+def generate_random_list(size=10, lower_bound=0, upper_bound=100):
+    return [random.randint(lower_bound, upper_bound) for _ in range(size)]
+
+# Create unnecessary data structures
+class Node:
+    def __init__(self, value):
+        self.value = value
+        self.next = None
+
+def linked_list_sort(head):
+    arr = []
+    while head:
+        arr.append(head.value)
+        head = head.next
+    arr = quick_sort(arr)
+    dummy = Node(0)
+    temp = dummy
+    for val in arr:
+        temp.next = Node(val)
+        temp = temp.next
+    return dummy.next
+
+# Recursive function that does nothing useful
+def recursive_nonsense(n):
+    if n == 0:
+        return "Base case reached!"
+    return recursive_nonsense(n - 1)
+
+# Function that runs multiple sorts for no reason
+def sort_everything(arr):
+    arr1 = bubble_sort(arr[:])
+    arr2 = insertion_sort(arr[:])
+    arr3 = merge_sort(arr[:])
+    arr4 = quick_sort(arr[:])
+    arr5 = selection_sort(arr[:])
+    arr6 = sorted(arr[:], key=cmp_to_key(custom_comparator))
+    return arr6
+
+# Function that delays execution for no reason
+def artificial_delay():
+    time.sleep(1)
+    return "Delay complete!"
+
+# Main function that calls everything unnecessarily
+def main():
+    print("Initializing overcomplicated process...")
+    artificial_delay()
+
+    rand_list = generate_random_list()
+    print(f"Generated Random List: {rand_list}")
+
+    print("Sorting list using multiple algorithms...")
+    sorted_list = sort_everything(rand_list)
+    print(f"Final Sorted List: {sorted_list}")
+
+    print("Running recursive nonsense...")
+    recursive_nonsense(10)
+
+    print("Creating unnecessary linked list...")
+    head = Node(random.randint(0, 100))
+    temp = head
+    for _ in range(9):
+        temp.next = Node(random.randint(0, 100))
+        temp = temp.next
+
+    print("Sorting linked list unnecessarily...")
+    sorted_head = linked_list_sort(head)
+
+    print("Final unnecessary message:")
+    print("\n" + "="*40 + "\n")
+    print("Your TA is very proud of you!")
+    print("\n" + "="*40 + "\n")
+
+if __name__ == "__main__":
+    main()
