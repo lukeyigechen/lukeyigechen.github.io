@@ -35,10 +35,10 @@ location: "Hong Kong"
 | 5 | Feb 05 | Machine Learning Fundamentals | Machine learning basics | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w5_tut_s.pdf) and <a target="_blank" href="https://colab.research.google.com/drive/1gQalAaCmjqHGgU-1ZBZRBPrjU9Mwpktc?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |  |
 | 6 | Feb 12 | Machine Learning Fundamentals | Machine learning basics II | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w6_tut_s.pdf) and <a target="_blank" href="https://colab.research.google.com/drive/19WavbMGRlGnwXtefdpsC6ONG3kuRXxC1?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |  |
 | 7 | Feb 19 | Word Meaning and Embeddings | Word meaning and embeddings | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w7_tut_s.pdf) and <a target="_blank" href="https://colab.research.google.com/drive/1La0r5zkbMWZV9uV50T8ue0ePLIX3veL1?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |  |
-| 8 | Feb 26 | Large Language Models, Parsing and Linguistic Structure Analysis |  |  |  |
+| 8 | Feb 26 | Large Language Models | Prompting large language models | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w8_tut_s.pdf) |  |
 | 9 | **N/A** | **No class: Reading week** | **N/A** |  |  |
-| 10 | Mar 12 | Text Classification & Sentiment Analysis | TBD | **Midterm** | **Midterm: In class** |
-| 11 | Mar 19 | Information Extraction | TBD |  |  |
+| 10 | Mar 12 | Parsing and Linguistic Structure Analysis | TBD | **Midterm** | **Midterm: In class** |
+| 11 | Mar 19 | Text Classification, Sentiment Analysis, and Information Extraction | TBD |  |  |
 | 12 | Mar 26 | Corpus analysis (Prof. Mai Ziyin’s team) (focus on speech recognition and corpus analysis for language learners and children’s corpus) | TBD |  |  |
 | 13 | Apr 2 | Real-world Applications: building a simultaneous interpreter? | TBD |  |  |
 | 14 | Apr 9 | Real-World Applications: Personal AI Assistants | TBD |  |  |
