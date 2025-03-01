@@ -17,6 +17,7 @@ author_profile: true
 
 ## Publications
 
+* Seohyun Song\*, Eunkyul Leah Jo\*, **Yige Chen**\*, Jeen-Pyo Hong\*, Kyuwon Kim, Jin Wee, Miyoung Kang, KyungTae Lim, Jungyeul Park, and Chulwoo Park. Unlocking Korean Verbs: A User-Friendly Exploration into the Verb Lexicon. To appear in *Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)*. 2025.
 * **Yige Chen**, Kyuwon Kim, KyungTae Lim, Jungyeul Park, and Chulwoo Park. When the Misidentified Adverbial Phrase Functions as a Complement. In *Findings of the Association for Computational Linguistics: EMNLP 2024*. 2024.
 * **Yige Chen**, KyungTae Lim, and Jungyeul Park. A Linguistically-Informed Annotation Strategy for Korean Semantic Role Labeling. In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*. 2024.
 * **Yige Chen**, Jae Ihn, KyungTae Lim, and Jungyeul Park. Towards Standardized Annotation and Parsing for Korean FrameNet. In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*. 2024. 
@@ -31,7 +32,6 @@ author_profile: true
 
 ## Working Papers
 
-* Unlocking Korean Verbs: A User-Friendly Exploration into the Verb Lexicon (with Seohyun Song, Eunkyul Leah Jo, Jeen-Pyo Hong, Kyuwon Kim, Jin Wee, Miyoung Kang, KyungTae Lim, Jungyeul Park, and Chulwoo Park)
 * K-UD: Revising Korean Universal Dependencies Guidelines (with Kyuwon Kim, Eunkyul Leah Jo, KyungTae Lim, Jungyeul Park, and Chulwoo Park)
 
 <!--## In Preparation
