@@ -40,7 +40,7 @@ location: "Hong Kong"
 | 10 | Mar 12 | Large Language Models II | TBD | **Midterm** | **Midterm: In class** |
 | 11 | Mar 19 | Parsing and Linguistic Structure Analysis | NLP for linguistic analysis | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w11_tut_s.pdf) and <a target="_blank" href="https://colab.research.google.com/drive/1ahkKonGo1IO510bQSwiy-ihISGMeMIxk?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |  |
 | 12 | Mar 26 | Corpus analysis (Prof. Mai Ziyin’s team) (focus on speech recognition and corpus analysis for language learners and children’s corpus) | TBD |  |  |
-| 13 | Apr 2 | Text Classification, Sentiment Analysis, and Information Extraction | TBD |  |  |
+| 13 | Apr 2 | Text Classification, Sentiment Analysis, and Information Extraction | Text Classification and Information Extraction | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w13_tut_s.pdf) and <a target="_blank" href="https://colab.research.google.com/drive/19acR5jPeRlIV__ugPI1jugwz-w2zLR7z?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |  |
 | 14 | Apr 9 | Machine Translation and Text-to-Speech Tools and Models | TBD |  |  |
 | 15 | Apr 16 | Real-World Applications: Personalized AI Assistants | **Final Exam** |  | **Final Exam: In class** |
 
