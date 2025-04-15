@@ -32,6 +32,7 @@ author_profile: true
 
 ## Working Papers
 
+* Parsing Through Boundaries in Chinese Word Segmentation (with Zelong Li, Changbing Yang, Cindy Zhang, Amandisa Cady, Ai Ka Lee, Zejiao Zeng, Haihua Pan, and Jungyeul Park)
 * K-UD: Revising Korean Universal Dependencies Guidelines (with Kyuwon Kim, Eunkyul Leah Jo, KyungTae Lim, Jungyeul Park, and Chulwoo Park)
 
 <!--## In Preparation
