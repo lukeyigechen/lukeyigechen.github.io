@@ -13,7 +13,7 @@ redirect_from:
 
 ## Education
 
-* Ph.D., Linguistics, Chinese University of Hong Kong, 2026 (expected)
+* Ph.D., Linguistics, Chinese University of Hong Kong, 2027 (expected)
   * Supervisor: Prof. Haihua Pan
 * M.S., Computational Linguistics, University of Washington, 2022
   * Advisor: Prof. Fei Xia; Grade: 4.00/4.00
@@ -81,7 +81,7 @@ Natural Language Processing, Computational Linguistics, Machine Learning, Conver
 
 ## Academic Service
 
-* Reviewer: *Generative Linguistics in the Old World in Asia, Annual Conference of the International Association of Chinese Linguistics*
+* Reviewer: *Annual Meeting of the Association for Computational Linguistics, Generative Linguistics in the Old World in Asia, Annual Conference of the International Association of Chinese Linguistics*
 
 ## Memberships
 
