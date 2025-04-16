@@ -42,7 +42,7 @@ location: "Hong Kong"
 | 12 | Mar 26 | Corpus analysis (Prof. Mai Ziyin’s team) (focus on speech recognition and corpus analysis for language learners and children’s corpus) | TBD |  |  |
 | 13 | Apr 2 | Text Classification, Sentiment Analysis, and Information Extraction | Text Classification and Information Extraction | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w13_tut_s.pdf) and <a target="_blank" href="https://colab.research.google.com/drive/19acR5jPeRlIV__ugPI1jugwz-w2zLR7z?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |  |
 | 14 | Apr 9 | Machine Translation and Text-to-Speech Tools and Models | Machine Translation, Speech Synthesis, and Multimodality | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w14_tut_s.pdf) |  |
-| 15 | Apr 16 | Real-World Applications: Personalized AI Assistants | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w15_tut_s.pdf) |  | **Final Exam: In class** |
+| 15 | Apr 16 | Real-World Applications: Personalized AI Assistants | Prompting, Agents, and Human-Computer Interaction | [\[Tutorial Slides\]](https://raw.githubusercontent.com/lukeyigechen/lukeyigechen.github.io/master/files/sp25/ling3401_sp25_w15_tut_s.pdf) | **Final Exam: In class** |
 
 ### Useful Links
 * [Google Colab](https://colab.research.google.com/)
