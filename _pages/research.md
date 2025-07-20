@@ -33,6 +33,8 @@ author_profile: true
 ## Working Papers
 
 * Parsing Through Boundaries in Chinese Word Segmentation (with Zelong Li, Changbing Yang, Cindy Zhang, Amandisa Cady, Ai Ka Lee, Zejiao Zeng, Haihua Pan, and Jungyeul Park)
+* Information Loss in LLMs' Multilingual Translation: The Role of Training Data, Language Proximity, and Language Family (with Yumeng Lin, Xufeng Duan, David Haslett, and Zhenguang G. Cai)
+* Enhancing Korean Dependency Parsing with Morphosyntactic Features (with Jungyeul Park, Kyuwon Kim, KyungTae Lim, and Chulwoo Park)
 * K-UD: Revising Korean Universal Dependencies Guidelines (with Kyuwon Kim, Eunkyul Leah Jo, KyungTae Lim, Jungyeul Park, and Chulwoo Park)
 
 <!--## In Preparation
