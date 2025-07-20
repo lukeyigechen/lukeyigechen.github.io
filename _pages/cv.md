@@ -64,7 +64,8 @@ Natural Language Processing, Computational Linguistics, Machine Learning, Conver
 
 * Teaching Assistant (September 2022 – present)
   * The Chinese University of Hong Kong
-  * Courses: 
+  * Courses:
+    * LING3401 Linguistics and Information Technology (Spring 2025)
     * LING2006 Semantics (Spring 2024)
     * LING2005 Syntax I (Fall 2023, Spring 2023)
     * LING3204 Second Language Acquisition (Fall 2022) 
@@ -81,7 +82,7 @@ Natural Language Processing, Computational Linguistics, Machine Learning, Conver
 
 ## Academic Service
 
-* Reviewer: *Annual Meeting of the Association for Computational Linguistics, Generative Linguistics in the Old World in Asia, Annual Conference of the International Association of Chinese Linguistics*
+* Reviewer: *Annual Meeting of the Association for Computational Linguistics, Conference on Empirical Methods in Natural Language Processing, Generative Linguistics in the Old World in Asia, Annual Conference of the International Association of Chinese Linguistics*
 
 ## Memberships
 
@@ -92,7 +93,7 @@ Natural Language Processing, Computational Linguistics, Machine Learning, Conver
 * American Mathematical Society (2025)
 * Association for Asian Studies (2025)
 * European Language Resources Association (2024)
-* International Association of Chinese Linguistics (2024)
+* International Association of Chinese Linguistics (2024-2025)
 
 ## Skills
 
