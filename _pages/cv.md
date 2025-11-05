@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](/files/cv/Yige-Chen-CV-Apr2025-v0.pdf)
+[Download CV](/files/cv/Yige-Chen-CV-Nov2025-v0.pdf)
 
 ## Education
 
@@ -25,7 +25,7 @@ redirect_from:
 
 ## Research Interests
 
-Natural Language Processing, Computational Linguistics, Machine Learning, Conversational Agents, Information Extraction<!-- (esp. in Economics and Finance)-->, Transfer Learning, Information Systems, Syntax, Semantics, <!--Phonology, Economics of Language -->Behavioral Economics
+Natural Language Processing, Computational Linguistics, Machine Learning, Conversational Agents, Transfer Learning, Generalizability, Multilinguality, Semantics, Behavioral Economics
 
 ## Publications
 
