@@ -25,7 +25,7 @@ redirect_from:
 
 ## Research Interests
 
-Natural Language Processing, Computational Linguistics, Machine Learning, Conversational Agents, Transfer Learning, Generalizability, Multilinguality, Semantics, Behavioral Economics
+Natural Language Processing, Computational Linguistics, Machine Learning, Conversational Agents, AI for Science/Humanities, Transfer Learning, Generalizability, Multilinguality, Syntax, Semantics, Behavioral Economics
 
 ## Publications
 
