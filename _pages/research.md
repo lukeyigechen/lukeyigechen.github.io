@@ -26,6 +26,7 @@ author_profile: true
 
 ## Talks
 
+* **Yige Chen**. Are Language Models Sensitive to Chinese Classifier Semantics in Code-Switching? Evidence from *ge* with Native and Code-Switched Nouns. Presented at the 32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32). Guangdong University of Foreign Studies, Guangzhou, China. 2026.
 * Yue Chen, Ziyin Mai, and **Yige Chen**. Employing Machine Learning and Language Models to Differentiate Language Patterns in Mandarin-Speaking Preschoolers with Autism Spectrum Disorder. Poster presented at the Seventh Installment of California Meeting on Psycholinguistics (CAMP\[7\]). University of California San Diego, San Diego, CA, United States. 2024.
 * **Yige Chen**. Understanding the Semantic Representation of Korean Mixed Script in Language Models. Presented at the 30th Annual Conference of the International Association of Chinese Linguistics (IACL-30). Yonsei University, Seoul, South Korea. 2024.
 * **Yige Chen**. Developing Resources and Tools for Enhanced Korean Language Processing. Delivered at the Multimodal Language Processing Lab, Seoul National University of Science and Technology, Seoul, South Korea. 2024.
